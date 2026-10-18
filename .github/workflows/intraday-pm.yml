@@ -1,0 +1,58 @@
+name: Intraday PM
+
+on:
+  schedule:
+    - cron: '10 7 * * 1-6'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: intraday
+  cancel-in-progress: false
+
+jobs:
+  trade-pm:
+    runs-on: ubuntu-latest
+    timeout-minutes: 260
+    env:
+      TZ: Asia/Kolkata
+      TELEGRAM_BOT_TOKEN: ${{ secrets.INTRADAY_TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.INTRADAY_TELEGRAM_CHAT_ID }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+          cache: pip
+          cache-dependency-path: intraday/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r intraday/requirements.txt
+
+      - name: Run bot (PM slice, exits itself at 15:15 square-off)
+        working-directory: intraday
+        run: timeout -s TERM 225m python main.py --trade || true
+
+      - name: Save state to repo
+        if: always()
+        run: |
+          git config user.name "bot-actions"
+          git config user.email "bot-actions@users.noreply.github.com"
+          git add intraday/intraday_portfolio.json intraday/logs 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "intraday PM state $(date -u +%Y-%m-%dT%H:%MZ)"
+            for i in 1 2 3 4 5; do
+              git pull --rebase origin main && git push && break
+              echo "push attempt $i failed, retrying in 10s..."
+              sleep 10
+            done
+          fi
