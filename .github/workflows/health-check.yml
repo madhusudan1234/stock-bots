@@ -1,0 +1,55 @@
+name: Health Check
+
+on:
+  schedule:
+    - cron: '30 4 * * 1'
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      TZ: Asia/Kolkata
+      TELEGRAM_BOT_TOKEN: ${{ secrets.INTRADAY_TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.INTRADAY_TELEGRAM_CHAT_ID }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+
+      - name: Yahoo Finance + Telegram check
+        working-directory: intraday
+        run: |
+          pip install -q pandas requests
+          python - <<'EOF'
+          import os
+          from datetime import datetime
+          import requests
+          from data.live_fetcher import LiveFetcher
+
+          price = LiveFetcher().get_realtime_price("RELIANCE.NS")
+          print(f"Reliance price from runner: {price}")
+          if not price or price <= 0:
+              raise SystemExit("Yahoo Finance fetch FAILED from GitHub runner")
+
+          token = os.environ["TELEGRAM_BOT_TOKEN"]
+          chat = os.environ["TELEGRAM_CHAT_ID"]
+          msg = (
+              "Health Check OK\n"
+              f"Reliance: {price:.2f}\n"
+              f"Runner time: {datetime.now():%Y-%m-%d %H:%M:%S %Z}\n"
+              "Both bots are scheduled and armed."
+          )
+          r = requests.post(
+              f"https://api.telegram.org/bot{token}/sendMessage",
+              json={"chat_id": chat, "text": msg},
+              timeout=30,
+          )
+          r.raise_for_status()
+          print("Telegram sent OK")
+          EOF
