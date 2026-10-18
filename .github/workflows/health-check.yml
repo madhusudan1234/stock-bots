@@ -25,7 +25,7 @@ jobs:
       - name: Yahoo Finance + Telegram check
         working-directory: intraday
         run: |
-          pip install -q pandas requests
+          pip install -q -r intraday/requirements.txt
           python - <<'EOF'
           import os
           from datetime import datetime
