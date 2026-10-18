@@ -1,0 +1,758 @@
+{
+  "initial_capital": 10000,
+  "cash": 10356.95,
+  "daily_trades": 6,
+  "daily_wins": 1,
+  "positions": {},
+  "trade_history": [
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 742.1,
+      "pnl": 44.40000000000009,
+      "reason": "SQUARE OFF"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 739.5,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 8,
+      "price": 414.8,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1247.4,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 8,
+      "price": 414.8,
+      "pnl": 0.0,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1242.2,
+      "pnl": -10.400000000000091,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 742.65,
+      "pnl": 12.599999999999909,
+      "reason": "SQUARE OFF"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 738.6,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1240.4,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "ICICIBANK.NS",
+      "quantity": 2,
+      "price": 1339.6,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1240.4,
+      "pnl": 0.0,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "ICICIBANK.NS",
+      "quantity": 2,
+      "price": 1339.6,
+      "pnl": 0.0,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 739.95,
+      "pnl": 5.400000000000091,
+      "reason": "SQUARE OFF"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 737.25,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "INFY.NS",
+      "quantity": 3,
+      "price": 1020.5,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1248.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 728.3,
+      "pnl": -35.80000000000018,
+      "reason": "STOP LOSS"
+    },
+    {
+      "action": "SELL",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1239.4,
+      "pnl": -17.199999999999818,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "INFY.NS",
+      "quantity": 3,
+      "price": 1013.0,
+      "pnl": -22.5,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "BUY",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 8,
+      "price": 405.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 728.9,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "ICICIBANK.NS",
+      "quantity": 2,
+      "price": 1334.5,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 8,
+      "price": 405.0,
+      "pnl": 0.0,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 727.3,
+      "pnl": -6.400000000000091,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "ICICIBANK.NS",
+      "quantity": 2,
+      "price": 1331.1,
+      "pnl": -6.800000000000182,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "BUY",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1210.6,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "TCS.NS",
+      "quantity": 1,
+      "price": 2083.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 724.25,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1210.6,
+      "pnl": 0.0,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "TCS.NS",
+      "quantity": 1,
+      "price": 2070.9,
+      "pnl": -12.099999999999909,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 723.55,
+      "pnl": -2.800000000000182,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "BUY",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1197.6,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "TCS.NS",
+      "quantity": 1,
+      "price": 2070.7,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 719.05,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1194.8,
+      "pnl": -5.599999999999909,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 714.85,
+      "pnl": -16.799999999999727,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "TCS.NS",
+      "quantity": 1,
+      "price": 2069.5,
+      "pnl": -1.199999999999818,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 722.7,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 8,
+      "price": 406.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1182.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1182.0,
+      "pnl": 0.0,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 711.95,
+      "pnl": -43.0,
+      "reason": "STOP LOSS"
+    },
+    {
+      "action": "SELL",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 8,
+      "price": 416.15,
+      "pnl": 81.19999999999982,
+      "reason": "TAKE PROFIT"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 708.7,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "ICICIBANK.NS",
+      "quantity": 2,
+      "price": 1321.7,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 8,
+      "price": 417.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 708.7,
+      "pnl": 0.0,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 8,
+      "price": 429.4,
+      "pnl": 99.19999999999982,
+      "reason": "TAKE PROFIT"
+    },
+    {
+      "action": "SELL",
+      "symbol": "ICICIBANK.NS",
+      "quantity": 2,
+      "price": 1314.3,
+      "pnl": -14.800000000000182,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "BUY",
+      "symbol": "INFY.NS",
+      "quantity": 3,
+      "price": 1035.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 721.2,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1167.7,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 7,
+      "price": 431.9,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 711.45,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1218.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 707.05,
+      "pnl": -17.600000000000364,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 7,
+      "price": 440.4,
+      "pnl": 59.5,
+      "reason": "SQUARE OFF"
+    },
+    {
+      "action": "SELL",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1206.2,
+      "pnl": -23.59999999999991,
+      "reason": "SQUARE OFF"
+    },
+    {
+      "action": "BUY",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 7,
+      "price": 440.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 702.75,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "INFY.NS",
+      "quantity": 3,
+      "price": 992.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 702.75,
+      "pnl": 0.0,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "INFY.NS",
+      "quantity": 3,
+      "price": 1006.25,
+      "pnl": 42.75,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 7,
+      "price": 434.6,
+      "pnl": -37.79999999999984,
+      "reason": "STOP LOSS"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 692.25,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "ICICIBANK.NS",
+      "quantity": 2,
+      "price": 1349.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "INFY.NS",
+      "quantity": 3,
+      "price": 997.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "INFY.NS",
+      "quantity": 3,
+      "price": 1023.0,
+      "pnl": 78.0,
+      "reason": "TAKE PROFIT"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 709.75,
+      "pnl": 70.0,
+      "reason": "TAKE PROFIT"
+    },
+    {
+      "action": "SELL",
+      "symbol": "ICICIBANK.NS",
+      "quantity": 2,
+      "price": 1358.3,
+      "pnl": 18.59999999999991,
+      "reason": "SQUARE OFF"
+    },
+    {
+      "action": "BUY",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1184.8,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "TCS.NS",
+      "quantity": 1,
+      "price": 2184.4,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 710.9,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "TCS.NS",
+      "quantity": 1,
+      "price": 2157.8,
+      "pnl": -26.59999999999991,
+      "reason": "STOP LOSS"
+    },
+    {
+      "action": "SELL",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1170.5,
+      "pnl": -28.59999999999991,
+      "reason": "STOP LOSS"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 703.7,
+      "pnl": -28.799999999999727,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 704.9,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1158.9,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 7,
+      "price": 443.4,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 7,
+      "price": 439.75,
+      "pnl": -25.54999999999984,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1160.5,
+      "pnl": 3.199999999999818,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 714.65,
+      "pnl": 39.0,
+      "reason": "SQUARE OFF"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 714.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 7,
+      "price": 439.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "BHARTIARTL.NS",
+      "quantity": 1,
+      "price": 1806.5,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 7,
+      "price": 440.85,
+      "pnl": 12.95000000000016,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "BHARTIARTL.NS",
+      "quantity": 1,
+      "price": 1796.4,
+      "pnl": -10.099999999999909,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 709.7,
+      "pnl": -17.199999999999818,
+      "reason": "SQUARE OFF"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 710.7,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 7,
+      "price": 438.05,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "INFY.NS",
+      "quantity": 3,
+      "price": 1088.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "INFY.NS",
+      "quantity": 3,
+      "price": 1115.9,
+      "pnl": 83.70000000000027,
+      "reason": "TAKE PROFIT"
+    },
+    {
+      "action": "SELL",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 7,
+      "price": 441.7,
+      "pnl": 25.54999999999984,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 725.45,
+      "pnl": 59.0,
+      "reason": "SQUARE OFF"
+    },
+    {
+      "action": "BUY",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1215.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 726.85,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "ICICIBANK.NS",
+      "quantity": 2,
+      "price": 1389.4,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1199.1,
+      "pnl": -31.800000000000182,
+      "reason": "STOP LOSS"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 726.85,
+      "pnl": 0.0,
+      "reason": "STOP LOSS"
+    },
+    {
+      "action": "SELL",
+      "symbol": "ICICIBANK.NS",
+      "quantity": 2,
+      "price": 1393.9,
+      "pnl": 9.0,
+      "reason": "SQUARE OFF"
+    }
+  ]
+}
