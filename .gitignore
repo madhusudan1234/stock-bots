@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+ENV/
+.venv/
+
+# Secrets
+.env
+
+# Local data caches
+data/market_data.db
+
+# OS junk
+Thumbs.db
+.DS_Store
