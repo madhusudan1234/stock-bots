@@ -1,39 +1,30 @@
 {
   "initial_capital": 10000,
-  "cash": 10356.95,
-  "daily_trades": 6,
-  "daily_wins": 1,
-  "positions": {},
-  "trade_history": [
-    {
-      "action": "SELL",
-      "symbol": "HDFCBANK.NS",
-      "quantity": 4,
-      "price": 742.1,
-      "pnl": 44.40000000000009,
-      "reason": "SQUARE OFF"
-    },
-    {
-      "action": "BUY",
-      "symbol": "HDFCBANK.NS",
-      "quantity": 4,
-      "price": 739.5,
-      "strategy": "MARKET_OPEN"
-    },
-    {
-      "action": "BUY",
-      "symbol": "KOTAKBANK.NS",
-      "quantity": 8,
-      "price": 414.8,
-      "strategy": "MARKET_OPEN"
-    },
-    {
-      "action": "BUY",
+  "cash": 5429.7,
+  "daily_trades": 4,
+  "daily_wins": 0,
+  "last_reset_date": "2026-10-19",
+  "positions": {
+    "RELIANCE.NS": {
       "symbol": "RELIANCE.NS",
       "quantity": 2,
-      "price": 1247.4,
+      "avg_entry_price": 1218.5,
+      "current_price": 1206.6,
+      "stop_loss": 1203.878,
+      "take_profit": 1248.9624999999999,
       "strategy": "MARKET_OPEN"
     },
+    "TCS.NS": {
+      "symbol": "TCS.NS",
+      "quantity": 1,
+      "avg_entry_price": 2473.1,
+      "current_price": 2458.7,
+      "stop_loss": 2443.4228,
+      "take_profit": 2534.9275,
+      "strategy": "MARKET_OPEN"
+    }
+  },
+  "trade_history": [
     {
       "action": "SELL",
       "symbol": "KOTAKBANK.NS",
@@ -753,6 +744,35 @@
       "price": 1393.9,
       "pnl": 9.0,
       "reason": "SQUARE OFF"
+    },
+    {
+      "action": "BUY",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1218.5,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "TCS.NS",
+      "quantity": 1,
+      "price": 2473.1,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 7,
+      "price": 721.25,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 7,
+      "price": 718.8,
+      "pnl": -17.15000000000032,
+      "reason": "STRATEGY SELL"
     }
   ]
 }
