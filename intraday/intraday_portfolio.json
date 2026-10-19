@@ -1,46 +1,11 @@
 {
   "initial_capital": 10000,
-  "cash": 5429.7,
-  "daily_trades": 4,
+  "cash": 10300.3,
+  "daily_trades": 6,
   "daily_wins": 0,
   "last_reset_date": "2026-10-19",
-  "positions": {
-    "RELIANCE.NS": {
-      "symbol": "RELIANCE.NS",
-      "quantity": 2,
-      "avg_entry_price": 1218.5,
-      "current_price": 1206.6,
-      "stop_loss": 1203.878,
-      "take_profit": 1248.9624999999999,
-      "strategy": "MARKET_OPEN"
-    },
-    "TCS.NS": {
-      "symbol": "TCS.NS",
-      "quantity": 1,
-      "avg_entry_price": 2473.1,
-      "current_price": 2458.7,
-      "stop_loss": 2443.4228,
-      "take_profit": 2534.9275,
-      "strategy": "MARKET_OPEN"
-    }
-  },
+  "positions": {},
   "trade_history": [
-    {
-      "action": "SELL",
-      "symbol": "KOTAKBANK.NS",
-      "quantity": 8,
-      "price": 414.8,
-      "pnl": 0.0,
-      "reason": "STRATEGY SELL"
-    },
-    {
-      "action": "SELL",
-      "symbol": "RELIANCE.NS",
-      "quantity": 2,
-      "price": 1242.2,
-      "pnl": -10.400000000000091,
-      "reason": "STRATEGY SELL"
-    },
     {
       "action": "SELL",
       "symbol": "HDFCBANK.NS",
@@ -773,6 +738,22 @@
       "price": 718.8,
       "pnl": -17.15000000000032,
       "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1203.4,
+      "pnl": -30.199999999999818,
+      "reason": "STOP LOSS"
+    },
+    {
+      "action": "SELL",
+      "symbol": "TCS.NS",
+      "quantity": 1,
+      "price": 2463.8,
+      "pnl": -9.299999999999727,
+      "reason": "SQUARE OFF"
     }
   ]
 }
