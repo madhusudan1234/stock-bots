@@ -26,3 +26,30 @@
 2026-10-20 13:55:35,782 | INFO    | intraday_portfolio | Total Return:     3.0%
 2026-10-20 13:55:35,782 | INFO    | intraday_portfolio | Today's Trades:   0 | Win Rate: 0.0%
 2026-10-20 13:55:35,782 | INFO    | intraday_portfolio | =======================================================
+2026-10-20 18:12:09,297 | INFO    | main | ============================================================
+2026-10-20 18:12:09,298 | INFO    | main | Intraday Stock Trading Bot (NSE)
+2026-10-20 18:12:09,298 | INFO    | main | ============================================================
+2026-10-20 18:12:09,298 | INFO    | main | ============================================================
+2026-10-20 18:12:09,298 | INFO    | main | INTRADAY TRADING BOT
+2026-10-20 18:12:09,298 | INFO    | main | ============================================================
+2026-10-20 18:12:09,298 | INFO    | telegram | Telegram notifications enabled
+2026-10-20 18:12:09,298 | INFO    | intraday_portfolio | Loaded portfolio: 10300.3 cash, 0 positions
+2026-10-20 18:12:09,603 | INFO    | live_fetcher | Yahoo crumb obtained
+2026-10-20 18:12:09,604 | INFO    | main | Capital: 10300.3
+2026-10-20 18:12:09,604 | INFO    | main | Monitoring: RELIANCE.NS, TCS.NS, HDFCBANK.NS, INFY.NS, ICICIBANK.NS, HINDUNILVR.NS, SBIN.NS, BHARTIARTL.NS, KOTAKBANK.NS, ITC.NS
+2026-10-20 18:12:09,604 | INFO    | main | Scanning every 15 seconds
+2026-10-20 18:12:09,604 | INFO    | main | Stop Loss: 1.2% | Take Profit: 2.5%
+2026-10-20 18:12:09,604 | INFO    | main | Telegram: ON
+2026-10-20 18:12:09,604 | INFO    | main | Press Ctrl+C to stop
+
+2026-10-20 18:12:10,313 | INFO    | main | Started after 09:35 (06:12 PM) - skipping market-open entry
+2026-10-20 18:12:10,313 | INFO    | main | Market holiday. Stopping bot.
+2026-10-20 18:12:10,313 | INFO    | intraday_portfolio | =======================================================
+2026-10-20 18:12:10,313 | INFO    | intraday_portfolio | PORTFOLIO SUMMARY
+2026-10-20 18:12:10,313 | INFO    | intraday_portfolio | =======================================================
+2026-10-20 18:12:10,313 | INFO    | intraday_portfolio | Cash:             10300.3
+2026-10-20 18:12:10,313 | INFO    | intraday_portfolio | Positions Value:  0
+2026-10-20 18:12:10,314 | INFO    | intraday_portfolio | Total Value:      10300.3
+2026-10-20 18:12:10,314 | INFO    | intraday_portfolio | Total Return:     3.0%
+2026-10-20 18:12:10,314 | INFO    | intraday_portfolio | Today's Trades:   0 | Win Rate: 0.0%
+2026-10-20 18:12:10,314 | INFO    | intraday_portfolio | =======================================================
