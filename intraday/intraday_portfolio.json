@@ -1,56 +1,11 @@
 {
   "initial_capital": 10000,
-  "cash": 10300.3,
-  "daily_trades": 0,
+  "cash": 10195.749999999998,
+  "daily_trades": 6,
   "daily_wins": 0,
-  "last_reset_date": "2026-10-21",
+  "last_reset_date": "2026-10-22",
   "positions": {},
   "trade_history": [
-    {
-      "action": "SELL",
-      "symbol": "HDFCBANK.NS",
-      "quantity": 4,
-      "price": 742.65,
-      "pnl": 12.599999999999909,
-      "reason": "SQUARE OFF"
-    },
-    {
-      "action": "BUY",
-      "symbol": "HDFCBANK.NS",
-      "quantity": 4,
-      "price": 738.6,
-      "strategy": "MARKET_OPEN"
-    },
-    {
-      "action": "BUY",
-      "symbol": "RELIANCE.NS",
-      "quantity": 2,
-      "price": 1240.4,
-      "strategy": "MARKET_OPEN"
-    },
-    {
-      "action": "BUY",
-      "symbol": "ICICIBANK.NS",
-      "quantity": 2,
-      "price": 1339.6,
-      "strategy": "MARKET_OPEN"
-    },
-    {
-      "action": "SELL",
-      "symbol": "RELIANCE.NS",
-      "quantity": 2,
-      "price": 1240.4,
-      "pnl": 0.0,
-      "reason": "STRATEGY SELL"
-    },
-    {
-      "action": "SELL",
-      "symbol": "ICICIBANK.NS",
-      "quantity": 2,
-      "price": 1339.6,
-      "pnl": 0.0,
-      "reason": "STRATEGY SELL"
-    },
     {
       "action": "SELL",
       "symbol": "HDFCBANK.NS",
@@ -754,6 +709,51 @@
       "price": 2463.8,
       "pnl": -9.299999999999727,
       "reason": "SQUARE OFF"
+    },
+    {
+      "action": "BUY",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1209.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "TCS.NS",
+      "quantity": 1,
+      "price": 2529.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 7,
+      "price": 706.95,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1198.0,
+      "pnl": -22.0,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 7,
+      "price": 699.5,
+      "pnl": -52.15000000000032,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "TCS.NS",
+      "quantity": 1,
+      "price": 2498.6,
+      "pnl": -30.40000000000009,
+      "reason": "STOP LOSS"
     }
   ]
 }
