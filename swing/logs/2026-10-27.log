@@ -1,0 +1,1222 @@
+2026-10-27 14:22:47,442 | INFO     | main | ============================================================
+2026-10-27 14:22:47,442 | INFO     | main | Indian Stock Trading Bot
+2026-10-27 14:22:47,442 | INFO     | main | ============================================================
+2026-10-27 14:22:47,443 | INFO     | main | Watching: RELIANCE.NS, TCS.NS, HDFCBANK.NS, INFY.NS, ICICIBANK.NS, HINDUNILVR.NS, SBIN.NS, BHARTIARTL.NS, KOTAKBANK.NS, ITC.NS
+2026-10-27 14:22:47,443 | INFO     | main | ============================================================
+2026-10-27 14:22:47,443 | INFO     | main | PAPER TRADING MODE
+2026-10-27 14:22:47,443 | INFO     | main | ============================================================
+2026-10-27 14:22:47,443 | INFO     | telegram | Telegram notifications enabled
+2026-10-27 14:22:47,443 | INFO     | portfolio | Loaded portfolio: ₹9463.80 cash, 0 positions
+2026-10-27 14:22:47,443 | INFO     | indian_fetcher | Indian Market Data Fetcher initialized
+2026-10-27 14:22:47,604 | INFO     | indian_fetcher | Yahoo crumb obtained
+2026-10-27 14:22:47,604 | INFO     | news_indian | Indian News Analyzer initialized
+2026-10-27 14:22:47,604 | INFO     | main | Capital: ₹9,463.80
+2026-10-27 14:22:47,604 | INFO     | main | Monitoring: RELIANCE.NS, TCS.NS, HDFCBANK.NS, INFY.NS, ICICIBANK.NS, HINDUNILVR.NS, SBIN.NS, BHARTIARTL.NS, KOTAKBANK.NS, ITC.NS
+2026-10-27 14:22:47,604 | INFO     | main | Scanning every 5 minutes
+2026-10-27 14:22:47,604 | INFO     | main | Telegram: ON
+2026-10-27 14:22:47,604 | INFO     | main | Press Ctrl+C to stop
+
+2026-10-27 14:22:48,913 | INFO     | main | 
+=======================================================
+2026-10-27 14:22:48,913 | INFO     | main | SCANNING: 02:22:48 PM
+2026-10-27 14:22:48,913 | INFO     | main | =======================================================
+2026-10-27 14:22:48,914 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 14:22:49,010 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 14:22:49,011 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 14:22:49,114 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 14:22:49,115 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 14:22:49,211 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 14:22:49,213 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 14:22:49,306 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 14:22:49,307 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 14:22:49,401 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 14:22:49,402 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 14:22:49,495 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 14:22:49,496 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 14:22:49,596 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 14:22:49,597 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 14:22:49,684 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 14:22:49,686 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 14:22:49,790 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 14:22:49,791 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 14:22:49,886 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 14:22:49,888 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 14:22:49,984 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 14:22:50,039 | INFO     | indian_fetcher | Got fundamentals for RELIANCE.NS
+2026-10-27 14:22:50,368 | INFO     | news_indian | Got 5 news headlines for RELIANCE.NS
+2026-10-27 14:22:50,374 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:22:50,374 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 14:22:50,471 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 14:22:50,525 | INFO     | indian_fetcher | Got fundamentals for TCS.NS
+2026-10-27 14:22:51,037 | INFO     | news_indian | Got 5 news headlines for TCS.NS
+2026-10-27 14:22:51,043 | INFO     | fundamentals | Fundamental score: 56.5/100 (GOOD)
+2026-10-27 14:22:51,043 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 14:22:51,139 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 14:22:51,194 | INFO     | indian_fetcher | Got fundamentals for HDFCBANK.NS
+2026-10-27 14:22:51,506 | INFO     | news_indian | Got 5 news headlines for HDFCBANK.NS
+2026-10-27 14:22:51,512 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 14:22:51,512 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 14:22:51,611 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 14:22:51,670 | INFO     | indian_fetcher | Got fundamentals for INFY.NS
+2026-10-27 14:22:52,175 | INFO     | news_indian | Got 5 news headlines for INFY.NS
+2026-10-27 14:22:52,181 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:22:52,181 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 14:22:52,277 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 14:22:52,335 | INFO     | indian_fetcher | Got fundamentals for ICICIBANK.NS
+2026-10-27 14:22:52,659 | INFO     | news_indian | Got 5 news headlines for ICICIBANK.NS
+2026-10-27 14:22:52,665 | INFO     | fundamentals | Fundamental score: 77.5/100 (STRONG)
+2026-10-27 14:22:52,665 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 14:22:52,804 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 14:22:52,858 | INFO     | indian_fetcher | Got fundamentals for HINDUNILVR.NS
+2026-10-27 14:22:53,319 | INFO     | news_indian | Got 5 news headlines for HINDUNILVR.NS
+2026-10-27 14:22:53,325 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:22:53,325 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 14:22:53,418 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 14:22:53,475 | INFO     | indian_fetcher | Got fundamentals for SBIN.NS
+2026-10-27 14:22:53,896 | INFO     | news_indian | Got 5 news headlines for SBIN.NS
+2026-10-27 14:22:53,902 | INFO     | fundamentals | Fundamental score: 73.8/100 (STRONG)
+2026-10-27 14:22:53,902 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 14:22:53,994 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 14:22:54,048 | INFO     | indian_fetcher | Got fundamentals for BHARTIARTL.NS
+2026-10-27 14:22:54,422 | INFO     | news_indian | Got 5 news headlines for BHARTIARTL.NS
+2026-10-27 14:22:54,428 | INFO     | fundamentals | Fundamental score: 57.8/100 (GOOD)
+2026-10-27 14:22:54,428 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 14:22:54,522 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 14:22:54,577 | INFO     | indian_fetcher | Got fundamentals for KOTAKBANK.NS
+2026-10-27 14:22:54,853 | INFO     | news_indian | Got 5 news headlines for KOTAKBANK.NS
+2026-10-27 14:22:54,859 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 14:22:54,860 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 14:22:54,963 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 14:22:55,018 | INFO     | indian_fetcher | Got fundamentals for ITC.NS
+2026-10-27 14:22:55,506 | INFO     | news_indian | Got 5 news headlines for ITC.NS
+2026-10-27 14:22:55,512 | INFO     | fundamentals | Fundamental score: 42.2/100 (NEUTRAL)
+2026-10-27 14:22:55,513 | INFO     | portfolio | =======================================================
+2026-10-27 14:22:55,513 | INFO     | portfolio | PORTFOLIO SUMMARY
+2026-10-27 14:22:55,513 | INFO     | portfolio | =======================================================
+2026-10-27 14:22:55,513 | INFO     | portfolio | Cash:             ₹9,463.80
+2026-10-27 14:22:55,513 | INFO     | portfolio | Positions Value:  ₹0.00
+2026-10-27 14:22:55,513 | INFO     | portfolio | Total Value:      ₹9,463.80
+2026-10-27 14:22:55,513 | INFO     | portfolio | Total Return:     -5.36%
+2026-10-27 14:22:55,513 | INFO     | portfolio | Today's Trades:   30 | Win Rate: 3.3%
+2026-10-27 14:22:55,513 | INFO     | portfolio | =======================================================
+2026-10-27 14:22:56,214 | INFO     | main | Next scan in 5 minutes... (14:22:56)
+2026-10-27 14:27:56,283 | INFO     | main | 
+=======================================================
+2026-10-27 14:27:56,284 | INFO     | main | SCANNING: 02:27:56 PM
+2026-10-27 14:27:56,284 | INFO     | main | =======================================================
+2026-10-27 14:27:56,284 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 14:27:56,387 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 14:27:56,389 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 14:27:56,475 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 14:27:56,476 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 14:27:56,573 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 14:27:56,574 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 14:27:56,673 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 14:27:56,674 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 14:27:56,769 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 14:27:56,770 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 14:27:56,862 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 14:27:56,864 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 14:27:56,961 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 14:27:56,962 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 14:27:57,054 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 14:27:57,055 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 14:27:57,196 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 14:27:57,198 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 14:27:57,292 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 14:27:57,293 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 14:27:57,390 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 14:27:57,479 | INFO     | indian_fetcher | Got fundamentals for RELIANCE.NS
+2026-10-27 14:27:57,759 | INFO     | news_indian | Got 5 news headlines for RELIANCE.NS
+2026-10-27 14:27:57,765 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:27:57,765 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 14:27:57,856 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 14:27:57,961 | INFO     | indian_fetcher | Got fundamentals for TCS.NS
+2026-10-27 14:27:58,246 | INFO     | news_indian | Got 5 news headlines for TCS.NS
+2026-10-27 14:27:58,253 | INFO     | fundamentals | Fundamental score: 56.5/100 (GOOD)
+2026-10-27 14:27:58,253 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 14:27:58,349 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 14:27:58,404 | INFO     | indian_fetcher | Got fundamentals for HDFCBANK.NS
+2026-10-27 14:27:58,698 | INFO     | news_indian | Got 5 news headlines for HDFCBANK.NS
+2026-10-27 14:27:58,704 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 14:27:58,704 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 14:27:58,799 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 14:27:58,855 | INFO     | indian_fetcher | Got fundamentals for INFY.NS
+2026-10-27 14:27:59,323 | INFO     | news_indian | Got 5 news headlines for INFY.NS
+2026-10-27 14:27:59,329 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:27:59,329 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 14:27:59,419 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 14:27:59,476 | INFO     | indian_fetcher | Got fundamentals for ICICIBANK.NS
+2026-10-27 14:27:59,742 | INFO     | news_indian | Got 5 news headlines for ICICIBANK.NS
+2026-10-27 14:27:59,748 | INFO     | fundamentals | Fundamental score: 77.5/100 (STRONG)
+2026-10-27 14:27:59,748 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 14:27:59,847 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 14:27:59,901 | INFO     | indian_fetcher | Got fundamentals for HINDUNILVR.NS
+2026-10-27 14:28:00,223 | INFO     | news_indian | Got 5 news headlines for HINDUNILVR.NS
+2026-10-27 14:28:00,229 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:28:00,229 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 14:28:00,327 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 14:28:00,384 | INFO     | indian_fetcher | Got fundamentals for SBIN.NS
+2026-10-27 14:28:00,650 | INFO     | news_indian | Got 5 news headlines for SBIN.NS
+2026-10-27 14:28:00,656 | INFO     | fundamentals | Fundamental score: 73.8/100 (STRONG)
+2026-10-27 14:28:00,656 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 14:28:00,741 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 14:28:00,801 | INFO     | indian_fetcher | Got fundamentals for BHARTIARTL.NS
+2026-10-27 14:28:01,191 | INFO     | news_indian | Got 5 news headlines for BHARTIARTL.NS
+2026-10-27 14:28:01,197 | INFO     | fundamentals | Fundamental score: 57.8/100 (GOOD)
+2026-10-27 14:28:01,198 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 14:28:01,288 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 14:28:01,343 | INFO     | indian_fetcher | Got fundamentals for KOTAKBANK.NS
+2026-10-27 14:28:01,728 | INFO     | news_indian | Got 5 news headlines for KOTAKBANK.NS
+2026-10-27 14:28:01,734 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 14:28:01,734 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 14:28:01,834 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 14:28:01,891 | INFO     | indian_fetcher | Got fundamentals for ITC.NS
+2026-10-27 14:28:02,348 | INFO     | news_indian | Got 5 news headlines for ITC.NS
+2026-10-27 14:28:02,354 | INFO     | fundamentals | Fundamental score: 42.2/100 (NEUTRAL)
+2026-10-27 14:28:02,354 | INFO     | portfolio | =======================================================
+2026-10-27 14:28:02,354 | INFO     | portfolio | PORTFOLIO SUMMARY
+2026-10-27 14:28:02,354 | INFO     | portfolio | =======================================================
+2026-10-27 14:28:02,354 | INFO     | portfolio | Cash:             ₹9,463.80
+2026-10-27 14:28:02,354 | INFO     | portfolio | Positions Value:  ₹0.00
+2026-10-27 14:28:02,354 | INFO     | portfolio | Total Value:      ₹9,463.80
+2026-10-27 14:28:02,354 | INFO     | portfolio | Total Return:     -5.36%
+2026-10-27 14:28:02,354 | INFO     | portfolio | Today's Trades:   30 | Win Rate: 3.3%
+2026-10-27 14:28:02,354 | INFO     | portfolio | =======================================================
+2026-10-27 14:28:03,127 | INFO     | main | Next scan in 5 minutes... (14:28:03)
+2026-10-27 14:33:03,156 | INFO     | main | 
+=======================================================
+2026-10-27 14:33:03,156 | INFO     | main | SCANNING: 02:33:03 PM
+2026-10-27 14:33:03,157 | INFO     | main | =======================================================
+2026-10-27 14:33:03,157 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 14:33:03,261 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 14:33:03,262 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 14:33:03,351 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 14:33:03,352 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 14:33:03,456 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 14:33:03,457 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 14:33:03,552 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 14:33:03,553 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 14:33:03,657 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 14:33:03,659 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 14:33:03,767 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 14:33:03,769 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 14:33:03,863 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 14:33:03,865 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 14:33:03,951 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 14:33:03,952 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 14:33:04,047 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 14:33:04,049 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 14:33:04,150 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 14:33:04,151 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 14:33:04,245 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 14:33:04,326 | INFO     | indian_fetcher | Got fundamentals for RELIANCE.NS
+2026-10-27 14:33:04,841 | INFO     | news_indian | Got 5 news headlines for RELIANCE.NS
+2026-10-27 14:33:04,846 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:33:04,846 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 14:33:04,940 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 14:33:05,001 | INFO     | indian_fetcher | Got fundamentals for TCS.NS
+2026-10-27 14:33:05,297 | INFO     | news_indian | Got 5 news headlines for TCS.NS
+2026-10-27 14:33:05,303 | INFO     | fundamentals | Fundamental score: 56.5/100 (GOOD)
+2026-10-27 14:33:05,303 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 14:33:05,398 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 14:33:05,454 | INFO     | indian_fetcher | Got fundamentals for HDFCBANK.NS
+2026-10-27 14:33:05,953 | INFO     | news_indian | Got 5 news headlines for HDFCBANK.NS
+2026-10-27 14:33:05,959 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 14:33:05,959 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 14:33:06,058 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 14:33:06,111 | INFO     | indian_fetcher | Got fundamentals for INFY.NS
+2026-10-27 14:33:06,556 | INFO     | news_indian | Got 5 news headlines for INFY.NS
+2026-10-27 14:33:06,562 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:33:06,562 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 14:33:06,653 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 14:33:06,708 | INFO     | indian_fetcher | Got fundamentals for ICICIBANK.NS
+2026-10-27 14:33:06,984 | INFO     | news_indian | Got 5 news headlines for ICICIBANK.NS
+2026-10-27 14:33:06,989 | INFO     | fundamentals | Fundamental score: 77.5/100 (STRONG)
+2026-10-27 14:33:06,990 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 14:33:07,086 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 14:33:07,139 | INFO     | indian_fetcher | Got fundamentals for HINDUNILVR.NS
+2026-10-27 14:33:07,404 | INFO     | news_indian | Got 5 news headlines for HINDUNILVR.NS
+2026-10-27 14:33:07,410 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:33:07,410 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 14:33:07,507 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 14:33:07,562 | INFO     | indian_fetcher | Got fundamentals for SBIN.NS
+2026-10-27 14:33:07,803 | INFO     | news_indian | Got 5 news headlines for SBIN.NS
+2026-10-27 14:33:07,808 | INFO     | fundamentals | Fundamental score: 73.8/100 (STRONG)
+2026-10-27 14:33:07,809 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 14:33:07,899 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 14:33:07,953 | INFO     | indian_fetcher | Got fundamentals for BHARTIARTL.NS
+2026-10-27 14:33:08,238 | INFO     | news_indian | Got 5 news headlines for BHARTIARTL.NS
+2026-10-27 14:33:08,244 | INFO     | fundamentals | Fundamental score: 57.8/100 (GOOD)
+2026-10-27 14:33:08,244 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 14:33:08,335 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 14:33:08,395 | INFO     | indian_fetcher | Got fundamentals for KOTAKBANK.NS
+2026-10-27 14:33:08,672 | INFO     | news_indian | Got 5 news headlines for KOTAKBANK.NS
+2026-10-27 14:33:08,678 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 14:33:08,678 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 14:33:08,777 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 14:33:08,832 | INFO     | indian_fetcher | Got fundamentals for ITC.NS
+2026-10-27 14:33:09,274 | INFO     | news_indian | Got 5 news headlines for ITC.NS
+2026-10-27 14:33:09,280 | INFO     | fundamentals | Fundamental score: 42.2/100 (NEUTRAL)
+2026-10-27 14:33:09,281 | INFO     | portfolio | =======================================================
+2026-10-27 14:33:09,281 | INFO     | portfolio | PORTFOLIO SUMMARY
+2026-10-27 14:33:09,281 | INFO     | portfolio | =======================================================
+2026-10-27 14:33:09,281 | INFO     | portfolio | Cash:             ₹9,463.80
+2026-10-27 14:33:09,281 | INFO     | portfolio | Positions Value:  ₹0.00
+2026-10-27 14:33:09,281 | INFO     | portfolio | Total Value:      ₹9,463.80
+2026-10-27 14:33:09,281 | INFO     | portfolio | Total Return:     -5.36%
+2026-10-27 14:33:09,281 | INFO     | portfolio | Today's Trades:   30 | Win Rate: 3.3%
+2026-10-27 14:33:09,281 | INFO     | portfolio | =======================================================
+2026-10-27 14:33:10,010 | INFO     | main | Next scan in 5 minutes... (14:33:10)
+2026-10-27 14:38:10,090 | INFO     | main | 
+=======================================================
+2026-10-27 14:38:10,091 | INFO     | main | SCANNING: 02:38:10 PM
+2026-10-27 14:38:10,091 | INFO     | main | =======================================================
+2026-10-27 14:38:10,091 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 14:38:10,191 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 14:38:10,192 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 14:38:10,288 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 14:38:10,289 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 14:38:10,385 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 14:38:10,386 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 14:38:10,492 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 14:38:10,493 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 14:38:10,585 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 14:38:10,587 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 14:38:10,684 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 14:38:10,685 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 14:38:10,783 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 14:38:10,784 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 14:38:10,874 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 14:38:10,875 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 14:38:10,974 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 14:38:10,975 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 14:38:11,071 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 14:38:11,072 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 14:38:11,216 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 14:38:11,297 | INFO     | indian_fetcher | Got fundamentals for RELIANCE.NS
+2026-10-27 14:38:11,924 | INFO     | news_indian | Got 5 news headlines for RELIANCE.NS
+2026-10-27 14:38:11,930 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:38:11,930 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 14:38:12,023 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 14:38:12,081 | INFO     | indian_fetcher | Got fundamentals for TCS.NS
+2026-10-27 14:38:12,402 | INFO     | news_indian | Got 5 news headlines for TCS.NS
+2026-10-27 14:38:12,408 | INFO     | fundamentals | Fundamental score: 56.5/100 (GOOD)
+2026-10-27 14:38:12,408 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 14:38:12,512 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 14:38:12,568 | INFO     | indian_fetcher | Got fundamentals for HDFCBANK.NS
+2026-10-27 14:38:12,849 | INFO     | news_indian | Got 5 news headlines for HDFCBANK.NS
+2026-10-27 14:38:12,855 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 14:38:12,855 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 14:38:13,001 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 14:38:13,061 | INFO     | indian_fetcher | Got fundamentals for INFY.NS
+2026-10-27 14:38:13,438 | INFO     | news_indian | Got 5 news headlines for INFY.NS
+2026-10-27 14:38:13,444 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:38:13,444 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 14:38:13,536 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 14:38:13,593 | INFO     | indian_fetcher | Got fundamentals for ICICIBANK.NS
+2026-10-27 14:38:13,895 | INFO     | news_indian | Got 5 news headlines for ICICIBANK.NS
+2026-10-27 14:38:13,901 | INFO     | fundamentals | Fundamental score: 77.5/100 (STRONG)
+2026-10-27 14:38:13,902 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 14:38:13,994 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 14:38:14,051 | INFO     | indian_fetcher | Got fundamentals for HINDUNILVR.NS
+2026-10-27 14:38:14,452 | INFO     | news_indian | Got 5 news headlines for HINDUNILVR.NS
+2026-10-27 14:38:14,458 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:38:14,458 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 14:38:14,554 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 14:38:14,609 | INFO     | indian_fetcher | Got fundamentals for SBIN.NS
+2026-10-27 14:38:14,971 | INFO     | news_indian | Got 5 news headlines for SBIN.NS
+2026-10-27 14:38:14,977 | INFO     | fundamentals | Fundamental score: 73.8/100 (STRONG)
+2026-10-27 14:38:14,977 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 14:38:15,070 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 14:38:15,124 | INFO     | indian_fetcher | Got fundamentals for BHARTIARTL.NS
+2026-10-27 14:38:15,518 | INFO     | news_indian | Got 5 news headlines for BHARTIARTL.NS
+2026-10-27 14:38:15,524 | INFO     | fundamentals | Fundamental score: 57.8/100 (GOOD)
+2026-10-27 14:38:15,524 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 14:38:15,614 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 14:38:15,671 | INFO     | indian_fetcher | Got fundamentals for KOTAKBANK.NS
+2026-10-27 14:38:15,965 | INFO     | news_indian | Got 5 news headlines for KOTAKBANK.NS
+2026-10-27 14:38:15,970 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 14:38:15,971 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 14:38:16,094 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 14:38:16,150 | INFO     | indian_fetcher | Got fundamentals for ITC.NS
+2026-10-27 14:38:16,560 | INFO     | news_indian | Got 5 news headlines for ITC.NS
+2026-10-27 14:38:16,566 | INFO     | fundamentals | Fundamental score: 42.2/100 (NEUTRAL)
+2026-10-27 14:38:16,566 | INFO     | portfolio | =======================================================
+2026-10-27 14:38:16,566 | INFO     | portfolio | PORTFOLIO SUMMARY
+2026-10-27 14:38:16,566 | INFO     | portfolio | =======================================================
+2026-10-27 14:38:16,566 | INFO     | portfolio | Cash:             ₹9,463.80
+2026-10-27 14:38:16,566 | INFO     | portfolio | Positions Value:  ₹0.00
+2026-10-27 14:38:16,566 | INFO     | portfolio | Total Value:      ₹9,463.80
+2026-10-27 14:38:16,567 | INFO     | portfolio | Total Return:     -5.36%
+2026-10-27 14:38:16,567 | INFO     | portfolio | Today's Trades:   30 | Win Rate: 3.3%
+2026-10-27 14:38:16,567 | INFO     | portfolio | =======================================================
+2026-10-27 14:38:17,384 | INFO     | main | Next scan in 5 minutes... (14:38:17)
+2026-10-27 14:43:17,391 | INFO     | main | 
+=======================================================
+2026-10-27 14:43:17,391 | INFO     | main | SCANNING: 02:43:17 PM
+2026-10-27 14:43:17,391 | INFO     | main | =======================================================
+2026-10-27 14:43:17,391 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 14:43:17,497 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 14:43:17,498 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 14:43:17,589 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 14:43:17,590 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 14:43:17,689 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 14:43:17,691 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 14:43:17,793 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 14:43:17,795 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 14:43:17,886 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 14:43:17,888 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 14:43:17,989 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 14:43:17,990 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 14:43:18,089 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 14:43:18,091 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 14:43:18,176 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 14:43:18,177 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 14:43:18,279 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 14:43:18,280 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 14:43:18,375 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 14:43:18,376 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 14:43:18,473 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 14:43:18,552 | INFO     | indian_fetcher | Got fundamentals for RELIANCE.NS
+2026-10-27 14:43:18,967 | INFO     | news_indian | Got 5 news headlines for RELIANCE.NS
+2026-10-27 14:43:18,973 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:43:18,973 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 14:43:19,070 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 14:43:19,123 | INFO     | indian_fetcher | Got fundamentals for TCS.NS
+2026-10-27 14:43:19,391 | INFO     | news_indian | Got 5 news headlines for TCS.NS
+2026-10-27 14:43:19,397 | INFO     | fundamentals | Fundamental score: 56.5/100 (GOOD)
+2026-10-27 14:43:19,397 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 14:43:19,493 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 14:43:19,546 | INFO     | indian_fetcher | Got fundamentals for HDFCBANK.NS
+2026-10-27 14:43:19,941 | INFO     | news_indian | Got 5 news headlines for HDFCBANK.NS
+2026-10-27 14:43:19,948 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 14:43:19,948 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 14:43:20,053 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 14:43:20,111 | INFO     | indian_fetcher | Got fundamentals for INFY.NS
+2026-10-27 14:43:20,522 | INFO     | news_indian | Got 5 news headlines for INFY.NS
+2026-10-27 14:43:20,529 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:43:20,529 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 14:43:20,624 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 14:43:20,680 | INFO     | indian_fetcher | Got fundamentals for ICICIBANK.NS
+2026-10-27 14:43:21,169 | INFO     | news_indian | Got 5 news headlines for ICICIBANK.NS
+2026-10-27 14:43:21,175 | INFO     | fundamentals | Fundamental score: 77.5/100 (STRONG)
+2026-10-27 14:43:21,175 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 14:43:21,269 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 14:43:21,323 | INFO     | indian_fetcher | Got fundamentals for HINDUNILVR.NS
+2026-10-27 14:43:21,566 | INFO     | news_indian | Got 5 news headlines for HINDUNILVR.NS
+2026-10-27 14:43:21,572 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:43:21,572 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 14:43:21,664 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 14:43:21,719 | INFO     | indian_fetcher | Got fundamentals for SBIN.NS
+2026-10-27 14:43:22,080 | INFO     | news_indian | Got 5 news headlines for SBIN.NS
+2026-10-27 14:43:22,086 | INFO     | fundamentals | Fundamental score: 73.8/100 (STRONG)
+2026-10-27 14:43:22,086 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 14:43:22,170 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 14:43:22,224 | INFO     | indian_fetcher | Got fundamentals for BHARTIARTL.NS
+2026-10-27 14:43:22,504 | INFO     | news_indian | Got 5 news headlines for BHARTIARTL.NS
+2026-10-27 14:43:22,510 | INFO     | fundamentals | Fundamental score: 57.8/100 (GOOD)
+2026-10-27 14:43:22,510 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 14:43:22,601 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 14:43:22,657 | INFO     | indian_fetcher | Got fundamentals for KOTAKBANK.NS
+2026-10-27 14:43:23,007 | INFO     | news_indian | Got 5 news headlines for KOTAKBANK.NS
+2026-10-27 14:43:23,013 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 14:43:23,013 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 14:43:23,109 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 14:43:23,162 | INFO     | indian_fetcher | Got fundamentals for ITC.NS
+2026-10-27 14:43:23,565 | INFO     | news_indian | Got 5 news headlines for ITC.NS
+2026-10-27 14:43:23,571 | INFO     | fundamentals | Fundamental score: 42.2/100 (NEUTRAL)
+2026-10-27 14:43:23,571 | INFO     | portfolio | =======================================================
+2026-10-27 14:43:23,571 | INFO     | portfolio | PORTFOLIO SUMMARY
+2026-10-27 14:43:23,571 | INFO     | portfolio | =======================================================
+2026-10-27 14:43:23,571 | INFO     | portfolio | Cash:             ₹9,463.80
+2026-10-27 14:43:23,571 | INFO     | portfolio | Positions Value:  ₹0.00
+2026-10-27 14:43:23,571 | INFO     | portfolio | Total Value:      ₹9,463.80
+2026-10-27 14:43:23,571 | INFO     | portfolio | Total Return:     -5.36%
+2026-10-27 14:43:23,572 | INFO     | portfolio | Today's Trades:   30 | Win Rate: 3.3%
+2026-10-27 14:43:23,572 | INFO     | portfolio | =======================================================
+2026-10-27 14:43:24,241 | INFO     | main | Next scan in 5 minutes... (14:43:24)
+2026-10-27 14:48:24,342 | INFO     | main | 
+=======================================================
+2026-10-27 14:48:24,342 | INFO     | main | SCANNING: 02:48:24 PM
+2026-10-27 14:48:24,342 | INFO     | main | =======================================================
+2026-10-27 14:48:24,342 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 14:48:24,438 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 14:48:24,440 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 14:48:24,532 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 14:48:24,533 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 14:48:24,640 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 14:48:24,641 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 14:48:24,735 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 14:48:24,737 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 14:48:24,827 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 14:48:24,828 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 14:48:24,923 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 14:48:24,924 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 14:48:25,017 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 14:48:25,018 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 14:48:25,105 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 14:48:25,106 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 14:48:25,197 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 14:48:25,199 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 14:48:25,295 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 14:48:25,296 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 14:48:25,393 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 14:48:25,476 | INFO     | indian_fetcher | Got fundamentals for RELIANCE.NS
+2026-10-27 14:48:25,877 | INFO     | news_indian | Got 5 news headlines for RELIANCE.NS
+2026-10-27 14:48:25,883 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:48:25,883 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 14:48:25,973 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 14:48:26,032 | INFO     | indian_fetcher | Got fundamentals for TCS.NS
+2026-10-27 14:48:26,426 | INFO     | news_indian | Got 5 news headlines for TCS.NS
+2026-10-27 14:48:26,432 | INFO     | fundamentals | Fundamental score: 56.5/100 (GOOD)
+2026-10-27 14:48:26,432 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 14:48:26,527 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 14:48:26,586 | INFO     | indian_fetcher | Got fundamentals for HDFCBANK.NS
+2026-10-27 14:48:27,027 | INFO     | news_indian | Got 5 news headlines for HDFCBANK.NS
+2026-10-27 14:48:27,033 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 14:48:27,033 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 14:48:27,133 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 14:48:27,186 | INFO     | indian_fetcher | Got fundamentals for INFY.NS
+2026-10-27 14:48:27,467 | INFO     | news_indian | Got 5 news headlines for INFY.NS
+2026-10-27 14:48:27,473 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:48:27,473 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 14:48:27,563 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 14:48:27,623 | INFO     | indian_fetcher | Got fundamentals for ICICIBANK.NS
+2026-10-27 14:48:27,908 | INFO     | news_indian | Got 5 news headlines for ICICIBANK.NS
+2026-10-27 14:48:27,914 | INFO     | fundamentals | Fundamental score: 77.5/100 (STRONG)
+2026-10-27 14:48:27,914 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 14:48:28,015 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 14:48:28,071 | INFO     | indian_fetcher | Got fundamentals for HINDUNILVR.NS
+2026-10-27 14:48:28,331 | INFO     | news_indian | Got 5 news headlines for HINDUNILVR.NS
+2026-10-27 14:48:28,337 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:48:28,337 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 14:48:28,435 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 14:48:28,495 | INFO     | indian_fetcher | Got fundamentals for SBIN.NS
+2026-10-27 14:48:28,738 | INFO     | news_indian | Got 5 news headlines for SBIN.NS
+2026-10-27 14:48:28,744 | INFO     | fundamentals | Fundamental score: 73.8/100 (STRONG)
+2026-10-27 14:48:28,744 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 14:48:28,838 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 14:48:28,894 | INFO     | indian_fetcher | Got fundamentals for BHARTIARTL.NS
+2026-10-27 14:48:29,253 | INFO     | news_indian | Got 5 news headlines for BHARTIARTL.NS
+2026-10-27 14:48:29,259 | INFO     | fundamentals | Fundamental score: 57.8/100 (GOOD)
+2026-10-27 14:48:29,259 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 14:48:29,353 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 14:48:29,408 | INFO     | indian_fetcher | Got fundamentals for KOTAKBANK.NS
+2026-10-27 14:48:29,692 | INFO     | news_indian | Got 5 news headlines for KOTAKBANK.NS
+2026-10-27 14:48:29,697 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 14:48:29,698 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 14:48:29,794 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 14:48:29,851 | INFO     | indian_fetcher | Got fundamentals for ITC.NS
+2026-10-27 14:48:30,157 | INFO     | news_indian | Got 5 news headlines for ITC.NS
+2026-10-27 14:48:30,163 | INFO     | fundamentals | Fundamental score: 42.2/100 (NEUTRAL)
+2026-10-27 14:48:30,163 | INFO     | portfolio | =======================================================
+2026-10-27 14:48:30,163 | INFO     | portfolio | PORTFOLIO SUMMARY
+2026-10-27 14:48:30,163 | INFO     | portfolio | =======================================================
+2026-10-27 14:48:30,163 | INFO     | portfolio | Cash:             ₹9,463.80
+2026-10-27 14:48:30,163 | INFO     | portfolio | Positions Value:  ₹0.00
+2026-10-27 14:48:30,163 | INFO     | portfolio | Total Value:      ₹9,463.80
+2026-10-27 14:48:30,163 | INFO     | portfolio | Total Return:     -5.36%
+2026-10-27 14:48:30,163 | INFO     | portfolio | Today's Trades:   30 | Win Rate: 3.3%
+2026-10-27 14:48:30,163 | INFO     | portfolio | =======================================================
+2026-10-27 14:48:30,930 | INFO     | main | Next scan in 5 minutes... (14:48:30)
+2026-10-27 14:53:31,023 | INFO     | main | 
+=======================================================
+2026-10-27 14:53:31,023 | INFO     | main | SCANNING: 02:53:31 PM
+2026-10-27 14:53:31,023 | INFO     | main | =======================================================
+2026-10-27 14:53:31,023 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 14:53:31,122 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 14:53:31,123 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 14:53:31,212 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 14:53:31,214 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 14:53:31,311 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 14:53:31,313 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 14:53:31,411 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 14:53:31,412 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 14:53:31,507 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 14:53:31,508 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 14:53:31,611 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 14:53:31,612 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 14:53:31,706 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 14:53:31,707 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 14:53:31,793 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 14:53:31,794 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 14:53:31,887 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 14:53:31,888 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 14:53:31,985 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 14:53:31,986 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 14:53:32,078 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 14:53:32,160 | INFO     | indian_fetcher | Got fundamentals for RELIANCE.NS
+2026-10-27 14:53:32,480 | INFO     | news_indian | Got 5 news headlines for RELIANCE.NS
+2026-10-27 14:53:32,486 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:53:32,486 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 14:53:32,578 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 14:53:32,632 | INFO     | indian_fetcher | Got fundamentals for TCS.NS
+2026-10-27 14:53:33,031 | INFO     | news_indian | Got 5 news headlines for TCS.NS
+2026-10-27 14:53:33,037 | INFO     | fundamentals | Fundamental score: 56.5/100 (GOOD)
+2026-10-27 14:53:33,037 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 14:53:33,068 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 14:53:33,124 | INFO     | indian_fetcher | Got fundamentals for HDFCBANK.NS
+2026-10-27 14:53:33,519 | INFO     | news_indian | Got 5 news headlines for HDFCBANK.NS
+2026-10-27 14:53:33,525 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 14:53:33,525 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 14:53:33,618 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 14:53:33,678 | INFO     | indian_fetcher | Got fundamentals for INFY.NS
+2026-10-27 14:53:34,058 | INFO     | news_indian | Got 5 news headlines for INFY.NS
+2026-10-27 14:53:34,063 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:53:34,064 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 14:53:34,163 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 14:53:34,219 | INFO     | indian_fetcher | Got fundamentals for ICICIBANK.NS
+2026-10-27 14:53:34,674 | INFO     | news_indian | Got 5 news headlines for ICICIBANK.NS
+2026-10-27 14:53:34,680 | INFO     | fundamentals | Fundamental score: 77.5/100 (STRONG)
+2026-10-27 14:53:34,680 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 14:53:34,822 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 14:53:34,886 | INFO     | indian_fetcher | Got fundamentals for HINDUNILVR.NS
+2026-10-27 14:53:35,239 | INFO     | news_indian | Got 5 news headlines for HINDUNILVR.NS
+2026-10-27 14:53:35,245 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:53:35,245 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 14:53:35,275 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 14:53:35,335 | INFO     | indian_fetcher | Got fundamentals for SBIN.NS
+2026-10-27 14:53:35,614 | INFO     | news_indian | Got 5 news headlines for SBIN.NS
+2026-10-27 14:53:35,620 | INFO     | fundamentals | Fundamental score: 73.8/100 (STRONG)
+2026-10-27 14:53:35,620 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 14:53:35,716 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 14:53:35,787 | INFO     | indian_fetcher | Got fundamentals for BHARTIARTL.NS
+2026-10-27 14:53:36,036 | INFO     | news_indian | Got 5 news headlines for BHARTIARTL.NS
+2026-10-27 14:53:36,041 | INFO     | fundamentals | Fundamental score: 57.8/100 (GOOD)
+2026-10-27 14:53:36,042 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 14:53:36,140 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 14:53:36,198 | INFO     | indian_fetcher | Got fundamentals for KOTAKBANK.NS
+2026-10-27 14:53:36,474 | INFO     | news_indian | Got 5 news headlines for KOTAKBANK.NS
+2026-10-27 14:53:36,480 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 14:53:36,481 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 14:53:36,582 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 14:53:36,639 | INFO     | indian_fetcher | Got fundamentals for ITC.NS
+2026-10-27 14:53:36,959 | INFO     | news_indian | Got 5 news headlines for ITC.NS
+2026-10-27 14:53:36,965 | INFO     | fundamentals | Fundamental score: 42.2/100 (NEUTRAL)
+2026-10-27 14:53:36,965 | INFO     | portfolio | =======================================================
+2026-10-27 14:53:36,965 | INFO     | portfolio | PORTFOLIO SUMMARY
+2026-10-27 14:53:36,965 | INFO     | portfolio | =======================================================
+2026-10-27 14:53:36,965 | INFO     | portfolio | Cash:             ₹9,463.80
+2026-10-27 14:53:36,966 | INFO     | portfolio | Positions Value:  ₹0.00
+2026-10-27 14:53:36,966 | INFO     | portfolio | Total Value:      ₹9,463.80
+2026-10-27 14:53:36,966 | INFO     | portfolio | Total Return:     -5.36%
+2026-10-27 14:53:36,966 | INFO     | portfolio | Today's Trades:   30 | Win Rate: 3.3%
+2026-10-27 14:53:36,966 | INFO     | portfolio | =======================================================
+2026-10-27 14:53:37,725 | INFO     | main | Next scan in 5 minutes... (14:53:37)
+2026-10-27 14:58:37,826 | INFO     | main | 
+=======================================================
+2026-10-27 14:58:37,826 | INFO     | main | SCANNING: 02:58:37 PM
+2026-10-27 14:58:37,826 | INFO     | main | =======================================================
+2026-10-27 14:58:37,826 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 14:58:37,921 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 14:58:37,922 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 14:58:38,015 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 14:58:38,017 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 14:58:38,109 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 14:58:38,111 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 14:58:38,213 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 14:58:38,215 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 14:58:38,305 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 14:58:38,306 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 14:58:38,401 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 14:58:38,402 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 14:58:38,495 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 14:58:38,497 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 14:58:38,582 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 14:58:38,583 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 14:58:38,681 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 14:58:38,683 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 14:58:38,784 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 14:58:38,785 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 14:58:38,883 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 14:58:38,968 | INFO     | indian_fetcher | Got fundamentals for RELIANCE.NS
+2026-10-27 14:58:39,254 | INFO     | news_indian | Got 5 news headlines for RELIANCE.NS
+2026-10-27 14:58:39,260 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:58:39,260 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 14:58:39,351 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 14:58:39,412 | INFO     | indian_fetcher | Got fundamentals for TCS.NS
+2026-10-27 14:58:39,669 | INFO     | news_indian | Got 5 news headlines for TCS.NS
+2026-10-27 14:58:39,675 | INFO     | fundamentals | Fundamental score: 56.5/100 (GOOD)
+2026-10-27 14:58:39,675 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 14:58:39,771 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 14:58:39,828 | INFO     | indian_fetcher | Got fundamentals for HDFCBANK.NS
+2026-10-27 14:58:40,258 | INFO     | news_indian | Got 5 news headlines for HDFCBANK.NS
+2026-10-27 14:58:40,264 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 14:58:40,264 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 14:58:40,359 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 14:58:40,417 | INFO     | indian_fetcher | Got fundamentals for INFY.NS
+2026-10-27 14:58:40,899 | INFO     | news_indian | Got 5 news headlines for INFY.NS
+2026-10-27 14:58:40,905 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:58:40,905 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 14:58:40,995 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 14:58:41,049 | INFO     | indian_fetcher | Got fundamentals for ICICIBANK.NS
+2026-10-27 14:58:41,369 | INFO     | news_indian | Got 5 news headlines for ICICIBANK.NS
+2026-10-27 14:58:41,375 | INFO     | fundamentals | Fundamental score: 77.5/100 (STRONG)
+2026-10-27 14:58:41,375 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 14:58:41,468 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 14:58:41,524 | INFO     | indian_fetcher | Got fundamentals for HINDUNILVR.NS
+2026-10-27 14:58:41,846 | INFO     | news_indian | Got 5 news headlines for HINDUNILVR.NS
+2026-10-27 14:58:41,851 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 14:58:41,851 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 14:58:41,945 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 14:58:42,002 | INFO     | indian_fetcher | Got fundamentals for SBIN.NS
+2026-10-27 14:58:42,369 | INFO     | news_indian | Got 5 news headlines for SBIN.NS
+2026-10-27 14:58:42,375 | INFO     | fundamentals | Fundamental score: 73.8/100 (STRONG)
+2026-10-27 14:58:42,375 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 14:58:42,465 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 14:58:42,524 | INFO     | indian_fetcher | Got fundamentals for BHARTIARTL.NS
+2026-10-27 14:58:42,891 | INFO     | news_indian | Got 5 news headlines for BHARTIARTL.NS
+2026-10-27 14:58:42,896 | INFO     | fundamentals | Fundamental score: 57.8/100 (GOOD)
+2026-10-27 14:58:42,897 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 14:58:42,984 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 14:58:43,039 | INFO     | indian_fetcher | Got fundamentals for KOTAKBANK.NS
+2026-10-27 14:58:43,419 | INFO     | news_indian | Got 5 news headlines for KOTAKBANK.NS
+2026-10-27 14:58:43,424 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 14:58:43,425 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 14:58:43,521 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 14:58:43,580 | INFO     | indian_fetcher | Got fundamentals for ITC.NS
+2026-10-27 14:58:43,911 | INFO     | news_indian | Got 5 news headlines for ITC.NS
+2026-10-27 14:58:43,917 | INFO     | fundamentals | Fundamental score: 42.2/100 (NEUTRAL)
+2026-10-27 14:58:43,917 | INFO     | portfolio | =======================================================
+2026-10-27 14:58:43,917 | INFO     | portfolio | PORTFOLIO SUMMARY
+2026-10-27 14:58:43,917 | INFO     | portfolio | =======================================================
+2026-10-27 14:58:43,917 | INFO     | portfolio | Cash:             ₹9,463.80
+2026-10-27 14:58:43,917 | INFO     | portfolio | Positions Value:  ₹0.00
+2026-10-27 14:58:43,918 | INFO     | portfolio | Total Value:      ₹9,463.80
+2026-10-27 14:58:43,918 | INFO     | portfolio | Total Return:     -5.36%
+2026-10-27 14:58:43,918 | INFO     | portfolio | Today's Trades:   30 | Win Rate: 3.3%
+2026-10-27 14:58:43,918 | INFO     | portfolio | =======================================================
+2026-10-27 14:58:44,733 | INFO     | main | Next scan in 5 minutes... (14:58:44)
+2026-10-27 15:03:44,810 | INFO     | main | 
+=======================================================
+2026-10-27 15:03:44,811 | INFO     | main | SCANNING: 03:03:44 PM
+2026-10-27 15:03:44,811 | INFO     | main | =======================================================
+2026-10-27 15:03:44,811 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 15:03:44,905 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 15:03:44,906 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 15:03:44,997 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 15:03:44,999 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 15:03:45,097 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 15:03:45,098 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 15:03:45,192 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 15:03:45,193 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 15:03:45,283 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 15:03:45,284 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 15:03:45,382 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 15:03:45,384 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 15:03:45,478 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 15:03:45,480 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 15:03:45,566 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 15:03:45,567 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 15:03:45,662 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 15:03:45,663 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 15:03:45,765 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 15:03:45,767 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 15:03:45,869 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 15:03:45,971 | INFO     | indian_fetcher | Got fundamentals for RELIANCE.NS
+2026-10-27 15:03:46,255 | INFO     | news_indian | Got 5 news headlines for RELIANCE.NS
+2026-10-27 15:03:46,261 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 15:03:46,261 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 15:03:46,403 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 15:03:46,458 | INFO     | indian_fetcher | Got fundamentals for TCS.NS
+2026-10-27 15:03:46,910 | INFO     | news_indian | Got 5 news headlines for TCS.NS
+2026-10-27 15:03:46,915 | INFO     | fundamentals | Fundamental score: 56.5/100 (GOOD)
+2026-10-27 15:03:46,916 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 15:03:47,009 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 15:03:47,065 | INFO     | indian_fetcher | Got fundamentals for HDFCBANK.NS
+2026-10-27 15:03:47,582 | INFO     | news_indian | Got 5 news headlines for HDFCBANK.NS
+2026-10-27 15:03:47,588 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 15:03:47,588 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 15:03:47,687 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 15:03:47,744 | INFO     | indian_fetcher | Got fundamentals for INFY.NS
+2026-10-27 15:03:48,033 | INFO     | news_indian | Got 5 news headlines for INFY.NS
+2026-10-27 15:03:48,038 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 15:03:48,038 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 15:03:48,182 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 15:03:48,239 | INFO     | indian_fetcher | Got fundamentals for ICICIBANK.NS
+2026-10-27 15:03:48,659 | INFO     | news_indian | Got 5 news headlines for ICICIBANK.NS
+2026-10-27 15:03:48,665 | INFO     | fundamentals | Fundamental score: 77.5/100 (STRONG)
+2026-10-27 15:03:48,665 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 15:03:48,756 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 15:03:48,811 | INFO     | indian_fetcher | Got fundamentals for HINDUNILVR.NS
+2026-10-27 15:03:49,071 | INFO     | news_indian | Got 5 news headlines for HINDUNILVR.NS
+2026-10-27 15:03:49,077 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 15:03:49,077 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 15:03:49,173 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 15:03:49,232 | INFO     | indian_fetcher | Got fundamentals for SBIN.NS
+2026-10-27 15:03:49,639 | INFO     | news_indian | Got 5 news headlines for SBIN.NS
+2026-10-27 15:03:49,645 | INFO     | fundamentals | Fundamental score: 73.8/100 (STRONG)
+2026-10-27 15:03:49,645 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 15:03:49,733 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 15:03:49,788 | INFO     | indian_fetcher | Got fundamentals for BHARTIARTL.NS
+2026-10-27 15:03:50,048 | INFO     | news_indian | Got 5 news headlines for BHARTIARTL.NS
+2026-10-27 15:03:50,054 | INFO     | fundamentals | Fundamental score: 57.8/100 (GOOD)
+2026-10-27 15:03:50,054 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 15:03:50,148 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 15:03:50,204 | INFO     | indian_fetcher | Got fundamentals for KOTAKBANK.NS
+2026-10-27 15:03:50,562 | INFO     | news_indian | Got 5 news headlines for KOTAKBANK.NS
+2026-10-27 15:03:50,567 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 15:03:50,568 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 15:03:50,663 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 15:03:50,720 | INFO     | indian_fetcher | Got fundamentals for ITC.NS
+2026-10-27 15:03:51,131 | INFO     | news_indian | Got 5 news headlines for ITC.NS
+2026-10-27 15:03:51,137 | INFO     | fundamentals | Fundamental score: 42.2/100 (NEUTRAL)
+2026-10-27 15:03:51,137 | INFO     | portfolio | =======================================================
+2026-10-27 15:03:51,137 | INFO     | portfolio | PORTFOLIO SUMMARY
+2026-10-27 15:03:51,137 | INFO     | portfolio | =======================================================
+2026-10-27 15:03:51,137 | INFO     | portfolio | Cash:             ₹9,463.80
+2026-10-27 15:03:51,137 | INFO     | portfolio | Positions Value:  ₹0.00
+2026-10-27 15:03:51,137 | INFO     | portfolio | Total Value:      ₹9,463.80
+2026-10-27 15:03:51,137 | INFO     | portfolio | Total Return:     -5.36%
+2026-10-27 15:03:51,138 | INFO     | portfolio | Today's Trades:   30 | Win Rate: 3.3%
+2026-10-27 15:03:51,138 | INFO     | portfolio | =======================================================
+2026-10-27 15:03:52,023 | INFO     | main | Next scan in 5 minutes... (15:03:52)
+2026-10-27 15:08:52,110 | INFO     | main | 
+=======================================================
+2026-10-27 15:08:52,111 | INFO     | main | SCANNING: 03:08:52 PM
+2026-10-27 15:08:52,111 | INFO     | main | =======================================================
+2026-10-27 15:08:52,111 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 15:08:52,212 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 15:08:52,213 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 15:08:52,306 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 15:08:52,307 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 15:08:52,402 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 15:08:52,403 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 15:08:52,495 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 15:08:52,497 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 15:08:52,588 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 15:08:52,590 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 15:08:52,682 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 15:08:52,683 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 15:08:52,781 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 15:08:52,782 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 15:08:52,867 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 15:08:52,868 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 15:08:52,969 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 15:08:52,971 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 15:08:53,070 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 15:08:53,072 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 15:08:53,192 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 15:08:53,285 | INFO     | indian_fetcher | Got fundamentals for RELIANCE.NS
+2026-10-27 15:08:53,814 | INFO     | news_indian | Got 5 news headlines for RELIANCE.NS
+2026-10-27 15:08:53,820 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 15:08:53,820 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 15:08:53,908 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 15:08:53,966 | INFO     | indian_fetcher | Got fundamentals for TCS.NS
+2026-10-27 15:08:54,383 | INFO     | news_indian | Got 5 news headlines for TCS.NS
+2026-10-27 15:08:54,389 | INFO     | fundamentals | Fundamental score: 56.5/100 (GOOD)
+2026-10-27 15:08:54,389 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 15:08:54,531 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 15:08:54,593 | INFO     | indian_fetcher | Got fundamentals for HDFCBANK.NS
+2026-10-27 15:08:55,036 | INFO     | news_indian | Got 5 news headlines for HDFCBANK.NS
+2026-10-27 15:08:55,042 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 15:08:55,042 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 15:08:55,134 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 15:08:55,192 | INFO     | indian_fetcher | Got fundamentals for INFY.NS
+2026-10-27 15:08:55,626 | INFO     | news_indian | Got 5 news headlines for INFY.NS
+2026-10-27 15:08:55,631 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 15:08:55,631 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 15:08:55,725 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 15:08:55,781 | INFO     | indian_fetcher | Got fundamentals for ICICIBANK.NS
+2026-10-27 15:08:56,112 | INFO     | news_indian | Got 5 news headlines for ICICIBANK.NS
+2026-10-27 15:08:56,118 | INFO     | fundamentals | Fundamental score: 77.5/100 (STRONG)
+2026-10-27 15:08:56,118 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 15:08:56,260 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 15:08:56,318 | INFO     | indian_fetcher | Got fundamentals for HINDUNILVR.NS
+2026-10-27 15:08:56,671 | INFO     | news_indian | Got 5 news headlines for HINDUNILVR.NS
+2026-10-27 15:08:56,677 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 15:08:56,677 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 15:08:56,773 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 15:08:56,829 | INFO     | indian_fetcher | Got fundamentals for SBIN.NS
+2026-10-27 15:08:57,099 | INFO     | news_indian | Got 5 news headlines for SBIN.NS
+2026-10-27 15:08:57,105 | INFO     | fundamentals | Fundamental score: 73.8/100 (STRONG)
+2026-10-27 15:08:57,105 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 15:08:57,189 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 15:08:57,243 | INFO     | indian_fetcher | Got fundamentals for BHARTIARTL.NS
+2026-10-27 15:08:57,539 | INFO     | news_indian | Got 5 news headlines for BHARTIARTL.NS
+2026-10-27 15:08:57,545 | INFO     | fundamentals | Fundamental score: 57.8/100 (GOOD)
+2026-10-27 15:08:57,545 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 15:08:57,637 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 15:08:57,699 | INFO     | indian_fetcher | Got fundamentals for KOTAKBANK.NS
+2026-10-27 15:08:58,041 | INFO     | news_indian | Got 5 news headlines for KOTAKBANK.NS
+2026-10-27 15:08:58,047 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 15:08:58,047 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 15:08:58,142 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 15:08:58,199 | INFO     | indian_fetcher | Got fundamentals for ITC.NS
+2026-10-27 15:08:58,623 | INFO     | news_indian | Got 5 news headlines for ITC.NS
+2026-10-27 15:08:58,628 | INFO     | fundamentals | Fundamental score: 42.2/100 (NEUTRAL)
+2026-10-27 15:08:58,629 | INFO     | portfolio | =======================================================
+2026-10-27 15:08:58,629 | INFO     | portfolio | PORTFOLIO SUMMARY
+2026-10-27 15:08:58,629 | INFO     | portfolio | =======================================================
+2026-10-27 15:08:58,629 | INFO     | portfolio | Cash:             ₹9,463.80
+2026-10-27 15:08:58,629 | INFO     | portfolio | Positions Value:  ₹0.00
+2026-10-27 15:08:58,629 | INFO     | portfolio | Total Value:      ₹9,463.80
+2026-10-27 15:08:58,629 | INFO     | portfolio | Total Return:     -5.36%
+2026-10-27 15:08:58,629 | INFO     | portfolio | Today's Trades:   30 | Win Rate: 3.3%
+2026-10-27 15:08:58,629 | INFO     | portfolio | =======================================================
+2026-10-27 15:08:59,387 | INFO     | main | Next scan in 5 minutes... (15:08:59)
+2026-10-27 15:13:59,487 | INFO     | main | 
+=======================================================
+2026-10-27 15:13:59,488 | INFO     | main | SCANNING: 03:13:59 PM
+2026-10-27 15:13:59,488 | INFO     | main | =======================================================
+2026-10-27 15:13:59,488 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 15:13:59,583 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 15:13:59,584 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 15:13:59,670 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 15:13:59,672 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 15:13:59,765 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 15:13:59,767 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 15:13:59,871 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 15:13:59,872 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 15:13:59,967 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 15:13:59,968 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 15:14:00,063 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 15:14:00,064 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 15:14:00,175 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 15:14:00,176 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 15:14:00,267 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 15:14:00,268 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 15:14:00,363 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 15:14:00,364 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 15:14:00,462 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 15:14:00,463 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 15:14:00,560 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 15:14:00,646 | INFO     | indian_fetcher | Got fundamentals for RELIANCE.NS
+2026-10-27 15:14:01,062 | INFO     | news_indian | Got 5 news headlines for RELIANCE.NS
+2026-10-27 15:14:01,068 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 15:14:01,068 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 15:14:01,157 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 15:14:01,218 | INFO     | indian_fetcher | Got fundamentals for TCS.NS
+2026-10-27 15:14:01,496 | INFO     | news_indian | Got 5 news headlines for TCS.NS
+2026-10-27 15:14:01,502 | INFO     | fundamentals | Fundamental score: 56.5/100 (GOOD)
+2026-10-27 15:14:01,502 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 15:14:01,599 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 15:14:01,658 | INFO     | indian_fetcher | Got fundamentals for HDFCBANK.NS
+2026-10-27 15:14:01,976 | INFO     | news_indian | Got 5 news headlines for HDFCBANK.NS
+2026-10-27 15:14:01,981 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 15:14:01,982 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 15:14:02,081 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 15:14:02,187 | INFO     | indian_fetcher | Got fundamentals for INFY.NS
+2026-10-27 15:14:02,585 | INFO     | news_indian | Got 5 news headlines for INFY.NS
+2026-10-27 15:14:02,591 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 15:14:02,592 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 15:14:02,679 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 15:14:02,735 | INFO     | indian_fetcher | Got fundamentals for ICICIBANK.NS
+2026-10-27 15:14:03,015 | INFO     | news_indian | Got 5 news headlines for ICICIBANK.NS
+2026-10-27 15:14:03,021 | INFO     | fundamentals | Fundamental score: 77.5/100 (STRONG)
+2026-10-27 15:14:03,021 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 15:14:03,114 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 15:14:03,170 | INFO     | indian_fetcher | Got fundamentals for HINDUNILVR.NS
+2026-10-27 15:14:03,460 | INFO     | news_indian | Got 5 news headlines for HINDUNILVR.NS
+2026-10-27 15:14:03,466 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 15:14:03,466 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 15:14:03,561 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 15:14:03,621 | INFO     | indian_fetcher | Got fundamentals for SBIN.NS
+2026-10-27 15:14:03,883 | INFO     | news_indian | Got 5 news headlines for SBIN.NS
+2026-10-27 15:14:03,889 | INFO     | fundamentals | Fundamental score: 73.8/100 (STRONG)
+2026-10-27 15:14:03,889 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 15:14:03,974 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 15:14:04,032 | INFO     | indian_fetcher | Got fundamentals for BHARTIARTL.NS
+2026-10-27 15:14:04,306 | INFO     | news_indian | Got 5 news headlines for BHARTIARTL.NS
+2026-10-27 15:14:04,312 | INFO     | fundamentals | Fundamental score: 57.8/100 (GOOD)
+2026-10-27 15:14:04,312 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 15:14:04,405 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 15:14:04,463 | INFO     | indian_fetcher | Got fundamentals for KOTAKBANK.NS
+2026-10-27 15:14:04,737 | INFO     | news_indian | Got 5 news headlines for KOTAKBANK.NS
+2026-10-27 15:14:04,743 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 15:14:04,743 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 15:14:04,841 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 15:14:04,895 | INFO     | indian_fetcher | Got fundamentals for ITC.NS
+2026-10-27 15:14:05,294 | INFO     | news_indian | Got 5 news headlines for ITC.NS
+2026-10-27 15:14:05,300 | INFO     | fundamentals | Fundamental score: 42.2/100 (NEUTRAL)
+2026-10-27 15:14:05,300 | INFO     | portfolio | =======================================================
+2026-10-27 15:14:05,300 | INFO     | portfolio | PORTFOLIO SUMMARY
+2026-10-27 15:14:05,300 | INFO     | portfolio | =======================================================
+2026-10-27 15:14:05,300 | INFO     | portfolio | Cash:             ₹9,463.80
+2026-10-27 15:14:05,300 | INFO     | portfolio | Positions Value:  ₹0.00
+2026-10-27 15:14:05,301 | INFO     | portfolio | Total Value:      ₹9,463.80
+2026-10-27 15:14:05,301 | INFO     | portfolio | Total Return:     -5.36%
+2026-10-27 15:14:05,301 | INFO     | portfolio | Today's Trades:   30 | Win Rate: 3.3%
+2026-10-27 15:14:05,301 | INFO     | portfolio | =======================================================
+2026-10-27 15:14:06,007 | INFO     | main | Next scan in 5 minutes... (15:14:06)
+2026-10-27 15:19:06,039 | INFO     | main | 
+=======================================================
+2026-10-27 15:19:06,039 | INFO     | main | SCANNING: 03:19:06 PM
+2026-10-27 15:19:06,039 | INFO     | main | =======================================================
+2026-10-27 15:19:06,039 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 15:19:06,181 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 15:19:06,182 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 15:19:06,275 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 15:19:06,276 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 15:19:06,366 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 15:19:06,368 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 15:19:06,457 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 15:19:06,458 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 15:19:06,550 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 15:19:06,552 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 15:19:06,648 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 15:19:06,649 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 15:19:06,762 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 15:19:06,763 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 15:19:06,856 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 15:19:06,858 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 15:19:06,951 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 15:19:06,953 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 15:19:07,053 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 15:19:07,055 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 15:19:07,151 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 15:19:07,233 | INFO     | indian_fetcher | Got fundamentals for RELIANCE.NS
+2026-10-27 15:19:07,558 | INFO     | news_indian | Got 5 news headlines for RELIANCE.NS
+2026-10-27 15:19:07,564 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 15:19:07,564 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 15:19:07,592 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 15:19:07,646 | INFO     | indian_fetcher | Got fundamentals for TCS.NS
+2026-10-27 15:19:08,055 | INFO     | news_indian | Got 5 news headlines for TCS.NS
+2026-10-27 15:19:08,061 | INFO     | fundamentals | Fundamental score: 56.5/100 (GOOD)
+2026-10-27 15:19:08,061 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 15:19:08,156 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 15:19:08,211 | INFO     | indian_fetcher | Got fundamentals for HDFCBANK.NS
+2026-10-27 15:19:08,806 | INFO     | news_indian | Got 5 news headlines for HDFCBANK.NS
+2026-10-27 15:19:08,812 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 15:19:08,812 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 15:19:08,911 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 15:19:08,967 | INFO     | indian_fetcher | Got fundamentals for INFY.NS
+2026-10-27 15:19:09,352 | INFO     | news_indian | Got 5 news headlines for INFY.NS
+2026-10-27 15:19:09,358 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 15:19:09,358 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 15:19:09,449 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 15:19:09,508 | INFO     | indian_fetcher | Got fundamentals for ICICIBANK.NS
+2026-10-27 15:19:09,966 | INFO     | news_indian | Got 5 news headlines for ICICIBANK.NS
+2026-10-27 15:19:09,971 | INFO     | fundamentals | Fundamental score: 77.5/100 (STRONG)
+2026-10-27 15:19:09,972 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 15:19:10,062 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 15:19:10,116 | INFO     | indian_fetcher | Got fundamentals for HINDUNILVR.NS
+2026-10-27 15:19:10,455 | INFO     | news_indian | Got 5 news headlines for HINDUNILVR.NS
+2026-10-27 15:19:10,461 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 15:19:10,461 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 15:19:10,551 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 15:19:10,611 | INFO     | indian_fetcher | Got fundamentals for SBIN.NS
+2026-10-27 15:19:11,030 | INFO     | news_indian | Got 5 news headlines for SBIN.NS
+2026-10-27 15:19:11,036 | INFO     | fundamentals | Fundamental score: 73.8/100 (STRONG)
+2026-10-27 15:19:11,036 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 15:19:11,124 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 15:19:11,180 | INFO     | indian_fetcher | Got fundamentals for BHARTIARTL.NS
+2026-10-27 15:19:11,452 | INFO     | news_indian | Got 5 news headlines for BHARTIARTL.NS
+2026-10-27 15:19:11,458 | INFO     | fundamentals | Fundamental score: 57.8/100 (GOOD)
+2026-10-27 15:19:11,458 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 15:19:11,550 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 15:19:11,607 | INFO     | indian_fetcher | Got fundamentals for KOTAKBANK.NS
+2026-10-27 15:19:11,875 | INFO     | news_indian | Got 5 news headlines for KOTAKBANK.NS
+2026-10-27 15:19:11,881 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 15:19:11,881 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 15:19:11,980 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 15:19:12,034 | INFO     | indian_fetcher | Got fundamentals for ITC.NS
+2026-10-27 15:19:12,435 | INFO     | news_indian | Got 5 news headlines for ITC.NS
+2026-10-27 15:19:12,440 | INFO     | fundamentals | Fundamental score: 42.2/100 (NEUTRAL)
+2026-10-27 15:19:12,441 | INFO     | portfolio | =======================================================
+2026-10-27 15:19:12,441 | INFO     | portfolio | PORTFOLIO SUMMARY
+2026-10-27 15:19:12,441 | INFO     | portfolio | =======================================================
+2026-10-27 15:19:12,441 | INFO     | portfolio | Cash:             ₹9,463.80
+2026-10-27 15:19:12,441 | INFO     | portfolio | Positions Value:  ₹0.00
+2026-10-27 15:19:12,441 | INFO     | portfolio | Total Value:      ₹9,463.80
+2026-10-27 15:19:12,441 | INFO     | portfolio | Total Return:     -5.36%
+2026-10-27 15:19:12,441 | INFO     | portfolio | Today's Trades:   30 | Win Rate: 3.3%
+2026-10-27 15:19:12,441 | INFO     | portfolio | =======================================================
+2026-10-27 15:19:13,260 | INFO     | main | Next scan in 5 minutes... (15:19:13)
+2026-10-27 15:24:13,295 | INFO     | main | 
+=======================================================
+2026-10-27 15:24:13,295 | INFO     | main | SCANNING: 03:24:13 PM
+2026-10-27 15:24:13,295 | INFO     | main | =======================================================
+2026-10-27 15:24:13,295 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 15:24:13,395 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 15:24:13,396 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 15:24:13,485 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 15:24:13,486 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 15:24:13,547 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 15:24:13,548 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 15:24:13,660 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 15:24:13,662 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 15:24:13,775 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 15:24:13,776 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 15:24:13,875 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 15:24:13,876 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 15:24:13,981 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 15:24:13,982 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 15:24:14,069 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 15:24:14,071 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 15:24:14,167 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 15:24:14,168 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 15:24:14,261 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 15:24:14,263 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 15:24:14,365 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 15:24:14,450 | INFO     | indian_fetcher | Got fundamentals for RELIANCE.NS
+2026-10-27 15:24:14,758 | INFO     | news_indian | Got 5 news headlines for RELIANCE.NS
+2026-10-27 15:24:14,764 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 15:24:14,764 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 15:24:14,854 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 15:24:14,919 | INFO     | indian_fetcher | Got fundamentals for TCS.NS
+2026-10-27 15:24:15,200 | INFO     | news_indian | Got 5 news headlines for TCS.NS
+2026-10-27 15:24:15,206 | INFO     | fundamentals | Fundamental score: 56.5/100 (GOOD)
+2026-10-27 15:24:15,206 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 15:24:15,300 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 15:24:15,356 | INFO     | indian_fetcher | Got fundamentals for HDFCBANK.NS
+2026-10-27 15:24:15,792 | INFO     | news_indian | Got 5 news headlines for HDFCBANK.NS
+2026-10-27 15:24:15,798 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 15:24:15,798 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 15:24:15,861 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 15:24:15,916 | INFO     | indian_fetcher | Got fundamentals for INFY.NS
+2026-10-27 15:24:16,412 | INFO     | news_indian | Got 5 news headlines for INFY.NS
+2026-10-27 15:24:16,417 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 15:24:16,418 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 15:24:16,515 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 15:24:16,574 | INFO     | indian_fetcher | Got fundamentals for ICICIBANK.NS
+2026-10-27 15:24:16,975 | INFO     | news_indian | Got 5 news headlines for ICICIBANK.NS
+2026-10-27 15:24:16,981 | INFO     | fundamentals | Fundamental score: 77.5/100 (STRONG)
+2026-10-27 15:24:16,981 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 15:24:17,076 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 15:24:17,131 | INFO     | indian_fetcher | Got fundamentals for HINDUNILVR.NS
+2026-10-27 15:24:17,416 | INFO     | news_indian | Got 5 news headlines for HINDUNILVR.NS
+2026-10-27 15:24:17,422 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 15:24:17,422 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 15:24:17,522 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 15:24:17,580 | INFO     | indian_fetcher | Got fundamentals for SBIN.NS
+2026-10-27 15:24:17,960 | INFO     | news_indian | Got 5 news headlines for SBIN.NS
+2026-10-27 15:24:17,966 | INFO     | fundamentals | Fundamental score: 73.8/100 (STRONG)
+2026-10-27 15:24:17,966 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 15:24:18,057 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 15:24:18,112 | INFO     | indian_fetcher | Got fundamentals for BHARTIARTL.NS
+2026-10-27 15:24:18,506 | INFO     | news_indian | Got 5 news headlines for BHARTIARTL.NS
+2026-10-27 15:24:18,512 | INFO     | fundamentals | Fundamental score: 57.8/100 (GOOD)
+2026-10-27 15:24:18,512 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 15:24:18,614 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 15:24:18,674 | INFO     | indian_fetcher | Got fundamentals for KOTAKBANK.NS
+2026-10-27 15:24:19,017 | INFO     | news_indian | Got 5 news headlines for KOTAKBANK.NS
+2026-10-27 15:24:19,023 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 15:24:19,023 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 15:24:19,116 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 15:24:19,172 | INFO     | indian_fetcher | Got fundamentals for ITC.NS
+2026-10-27 15:24:19,475 | INFO     | news_indian | Got 5 news headlines for ITC.NS
+2026-10-27 15:24:19,480 | INFO     | fundamentals | Fundamental score: 42.2/100 (NEUTRAL)
+2026-10-27 15:24:19,480 | INFO     | portfolio | =======================================================
+2026-10-27 15:24:19,480 | INFO     | portfolio | PORTFOLIO SUMMARY
+2026-10-27 15:24:19,480 | INFO     | portfolio | =======================================================
+2026-10-27 15:24:19,480 | INFO     | portfolio | Cash:             ₹9,463.80
+2026-10-27 15:24:19,481 | INFO     | portfolio | Positions Value:  ₹0.00
+2026-10-27 15:24:19,481 | INFO     | portfolio | Total Value:      ₹9,463.80
+2026-10-27 15:24:19,481 | INFO     | portfolio | Total Return:     -5.36%
+2026-10-27 15:24:19,481 | INFO     | portfolio | Today's Trades:   30 | Win Rate: 3.3%
+2026-10-27 15:24:19,481 | INFO     | portfolio | =======================================================
+2026-10-27 15:24:20,257 | INFO     | main | Next scan in 5 minutes... (15:24:20)
+2026-10-27 15:29:20,321 | INFO     | main | 
+=======================================================
+2026-10-27 15:29:20,322 | INFO     | main | SCANNING: 03:29:20 PM
+2026-10-27 15:29:20,322 | INFO     | main | =======================================================
+2026-10-27 15:29:20,322 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 15:29:20,419 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 15:29:20,420 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 15:29:20,512 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 15:29:20,513 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 15:29:20,607 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 15:29:20,608 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 15:29:20,704 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 15:29:20,705 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 15:29:20,799 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 15:29:20,801 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 15:29:20,899 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 15:29:20,901 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 15:29:20,998 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 15:29:20,999 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 15:29:21,096 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 15:29:21,098 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 15:29:21,195 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 15:29:21,196 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 15:29:21,292 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 15:29:21,293 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-27 15:29:21,392 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-27 15:29:21,503 | INFO     | indian_fetcher | Got fundamentals for RELIANCE.NS
+2026-10-27 15:29:21,970 | INFO     | news_indian | Got 5 news headlines for RELIANCE.NS
+2026-10-27 15:29:21,976 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 15:29:21,976 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-27 15:29:22,067 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-27 15:29:22,126 | INFO     | indian_fetcher | Got fundamentals for TCS.NS
+2026-10-27 15:29:22,442 | INFO     | news_indian | Got 5 news headlines for TCS.NS
+2026-10-27 15:29:22,448 | INFO     | fundamentals | Fundamental score: 56.5/100 (GOOD)
+2026-10-27 15:29:22,448 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-27 15:29:22,544 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-27 15:29:22,602 | INFO     | indian_fetcher | Got fundamentals for HDFCBANK.NS
+2026-10-27 15:29:23,015 | INFO     | news_indian | Got 5 news headlines for HDFCBANK.NS
+2026-10-27 15:29:23,021 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 15:29:23,021 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-27 15:29:23,116 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-27 15:29:23,236 | INFO     | indian_fetcher | Got fundamentals for INFY.NS
+2026-10-27 15:29:23,528 | INFO     | news_indian | Got 5 news headlines for INFY.NS
+2026-10-27 15:29:23,534 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 15:29:23,534 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-27 15:29:23,628 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-27 15:29:23,689 | INFO     | indian_fetcher | Got fundamentals for ICICIBANK.NS
+2026-10-27 15:29:23,964 | INFO     | news_indian | Got 5 news headlines for ICICIBANK.NS
+2026-10-27 15:29:23,969 | INFO     | fundamentals | Fundamental score: 77.5/100 (STRONG)
+2026-10-27 15:29:23,970 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-27 15:29:24,066 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-27 15:29:24,124 | INFO     | indian_fetcher | Got fundamentals for HINDUNILVR.NS
+2026-10-27 15:29:24,382 | INFO     | news_indian | Got 5 news headlines for HINDUNILVR.NS
+2026-10-27 15:29:24,388 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-27 15:29:24,388 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-27 15:29:24,484 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-27 15:29:24,589 | INFO     | indian_fetcher | Got fundamentals for SBIN.NS
+2026-10-27 15:29:24,840 | INFO     | news_indian | Got 5 news headlines for SBIN.NS
+2026-10-27 15:29:24,846 | INFO     | fundamentals | Fundamental score: 73.8/100 (STRONG)
+2026-10-27 15:29:24,846 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-27 15:29:24,935 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-27 15:29:24,997 | INFO     | indian_fetcher | Got fundamentals for BHARTIARTL.NS
+2026-10-27 15:29:25,265 | INFO     | news_indian | Got 5 news headlines for BHARTIARTL.NS
+2026-10-27 15:29:25,271 | INFO     | fundamentals | Fundamental score: 57.8/100 (GOOD)
+2026-10-27 15:29:25,271 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-27 15:29:25,364 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-27 15:29:25,423 | INFO     | indian_fetcher | Got fundamentals for KOTAKBANK.NS
+2026-10-27 15:29:25,777 | INFO     | news_indian | Got 5 news headlines for KOTAKBANK.NS
+2026-10-27 15:29:25,782 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-27 15:29:25,783 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-27 15:29:25,873 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-27 15:29:25,930 | INFO     | indian_fetcher | Got fundamentals for ITC.NS
+2026-10-27 15:29:26,216 | INFO     | news_indian | Got 5 news headlines for ITC.NS
+2026-10-27 15:29:26,222 | INFO     | fundamentals | Fundamental score: 42.2/100 (NEUTRAL)
+2026-10-27 15:29:26,222 | INFO     | portfolio | =======================================================
+2026-10-27 15:29:26,222 | INFO     | portfolio | PORTFOLIO SUMMARY
+2026-10-27 15:29:26,222 | INFO     | portfolio | =======================================================
+2026-10-27 15:29:26,222 | INFO     | portfolio | Cash:             ₹9,463.80
+2026-10-27 15:29:26,222 | INFO     | portfolio | Positions Value:  ₹0.00
+2026-10-27 15:29:26,222 | INFO     | portfolio | Total Value:      ₹9,463.80
+2026-10-27 15:29:26,222 | INFO     | portfolio | Total Return:     -5.36%
+2026-10-27 15:29:26,223 | INFO     | portfolio | Today's Trades:   30 | Win Rate: 3.3%
+2026-10-27 15:29:26,223 | INFO     | portfolio | =======================================================
+2026-10-27 15:29:27,006 | INFO     | main | Next scan in 5 minutes... (15:29:27)
+2026-10-27 15:34:27,048 | INFO     | main | Market closed. Waiting... (03:34:27 PM)
+2026-10-27 15:39:27,086 | INFO     | main | Market closed. Waiting... (03:39:27 PM)
+2026-10-27 15:44:27,182 | INFO     | main | Market closed. Waiting... (03:44:27 PM)
+2026-10-27 15:49:27,283 | INFO     | main | Market closed. Waiting... (03:49:27 PM)
+2026-10-27 15:54:27,348 | INFO     | main | Market closed. Waiting... (03:54:27 PM)
+2026-10-27 15:59:27,396 | INFO     | main | Market closed. Waiting... (03:59:27 PM)
+2026-10-27 16:04:27,484 | INFO     | main | Market closed. Waiting... (04:04:27 PM)
+2026-10-27 16:09:27,503 | INFO     | main | Market closed. Waiting... (04:09:27 PM)
+2026-10-27 16:14:27,552 | INFO     | main | Market closed. Waiting... (04:14:27 PM)
+2026-10-27 16:19:27,638 | INFO     | main | Market closed. Waiting... (04:19:27 PM)
+2026-10-27 16:24:27,727 | INFO     | main | Market closed. Waiting... (04:24:27 PM)
+2026-10-27 16:29:27,815 | INFO     | main | Market closed. Waiting... (04:29:27 PM)
+2026-10-27 16:34:27,855 | INFO     | main | Market closed. Waiting... (04:34:27 PM)
+2026-10-27 16:39:27,869 | INFO     | main | Market closed. Waiting... (04:39:27 PM)
+2026-10-27 16:44:27,873 | INFO     | main | Market closed. Waiting... (04:44:27 PM)
+2026-10-27 16:49:27,943 | INFO     | main | Market closed. Waiting... (04:49:27 PM)
+2026-10-27 16:54:27,983 | INFO     | main | Market closed. Waiting... (04:54:27 PM)
+2026-10-27 16:59:28,059 | INFO     | main | Market closed. Waiting... (04:59:28 PM)
+2026-10-27 17:04:28,153 | INFO     | main | Market closed. Waiting... (05:04:28 PM)
+2026-10-27 17:09:28,254 | INFO     | main | Market closed. Waiting... (05:09:28 PM)
+2026-10-27 17:14:28,279 | INFO     | main | Market closed. Waiting... (05:14:28 PM)
+2026-10-27 17:19:28,379 | INFO     | main | Market closed. Waiting... (05:19:28 PM)
+2026-10-27 17:24:28,471 | INFO     | main | Market closed. Waiting... (05:24:28 PM)
+2026-10-27 17:29:28,527 | INFO     | main | Market closed. Waiting... (05:29:28 PM)
+2026-10-27 17:34:28,627 | INFO     | main | Market closed. Waiting... (05:34:28 PM)
+2026-10-27 17:39:28,655 | INFO     | main | Market closed. Waiting... (05:39:28 PM)
+2026-10-27 17:44:28,755 | INFO     | main | Market closed. Waiting... (05:44:28 PM)
+2026-10-27 17:49:28,797 | INFO     | main | Market closed. Waiting... (05:49:28 PM)
