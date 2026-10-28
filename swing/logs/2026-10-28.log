@@ -473,3 +473,60 @@
 2026-10-28 18:19:22,916 | INFO     | main | Market closed. Waiting... (06:19:22 PM)
 2026-10-28 18:24:23,002 | INFO     | main | Market closed. Waiting... (06:24:23 PM)
 2026-10-28 18:29:23,103 | INFO     | main | Market closed. Waiting... (06:29:23 PM)
+2026-10-28 19:28:55,920 | INFO     | main | ============================================================
+2026-10-28 19:28:55,920 | INFO     | main | Indian Stock Trading Bot
+2026-10-28 19:28:55,920 | INFO     | main | ============================================================
+2026-10-28 19:28:55,920 | INFO     | main | Watching: RELIANCE.NS, TCS.NS, HDFCBANK.NS, INFY.NS, ICICIBANK.NS, HINDUNILVR.NS, SBIN.NS, BHARTIARTL.NS, KOTAKBANK.NS, ITC.NS
+2026-10-28 19:28:55,920 | INFO     | main | ============================================================
+2026-10-28 19:28:55,920 | INFO     | main | PAPER TRADING MODE
+2026-10-28 19:28:55,920 | INFO     | main | ============================================================
+2026-10-28 19:28:55,920 | INFO     | telegram | Telegram notifications enabled
+2026-10-28 19:28:55,921 | INFO     | portfolio | Loaded portfolio: ₹9463.80 cash, 0 positions
+2026-10-28 19:28:55,921 | INFO     | indian_fetcher | Indian Market Data Fetcher initialized
+2026-10-28 19:28:56,215 | INFO     | indian_fetcher | Yahoo crumb obtained
+2026-10-28 19:28:56,215 | INFO     | news_indian | Indian News Analyzer initialized
+2026-10-28 19:28:56,216 | INFO     | main | Capital: ₹9,463.80
+2026-10-28 19:28:56,216 | INFO     | main | Monitoring: RELIANCE.NS, TCS.NS, HDFCBANK.NS, INFY.NS, ICICIBANK.NS, HINDUNILVR.NS, SBIN.NS, BHARTIARTL.NS, KOTAKBANK.NS, ITC.NS
+2026-10-28 19:28:56,216 | INFO     | main | Scanning every 5 minutes
+2026-10-28 19:28:56,216 | INFO     | main | Telegram: ON
+2026-10-28 19:28:56,216 | INFO     | main | Press Ctrl+C to stop
+
+2026-10-28 19:28:56,834 | INFO     | main | Market closed. Waiting... (07:28:56 PM)
+2026-10-28 19:33:56,928 | INFO     | main | Market closed. Waiting... (07:33:56 PM)
+2026-10-28 19:38:57,011 | INFO     | main | Market closed. Waiting... (07:38:57 PM)
+2026-10-28 19:43:57,111 | INFO     | main | Market closed. Waiting... (07:43:57 PM)
+2026-10-28 19:48:57,200 | INFO     | main | Market closed. Waiting... (07:48:57 PM)
+2026-10-28 19:53:57,291 | INFO     | main | Market closed. Waiting... (07:53:57 PM)
+2026-10-28 19:58:57,382 | INFO     | main | Market closed. Waiting... (07:58:57 PM)
+2026-10-28 20:03:57,480 | INFO     | main | Market closed. Waiting... (08:03:57 PM)
+2026-10-28 20:08:57,577 | INFO     | main | Market closed. Waiting... (08:08:57 PM)
+2026-10-28 20:13:57,675 | INFO     | main | Market closed. Waiting... (08:13:57 PM)
+2026-10-28 20:18:57,772 | INFO     | main | Market closed. Waiting... (08:18:57 PM)
+2026-10-28 20:23:57,870 | INFO     | main | Market closed. Waiting... (08:23:57 PM)
+2026-10-28 20:28:57,967 | INFO     | main | Market closed. Waiting... (08:28:57 PM)
+2026-10-28 20:33:58,067 | INFO     | main | Market closed. Waiting... (08:33:58 PM)
+2026-10-28 20:38:58,165 | INFO     | main | Market closed. Waiting... (08:38:58 PM)
+2026-10-28 20:43:58,265 | INFO     | main | Market closed. Waiting... (08:43:58 PM)
+2026-10-28 20:48:58,365 | INFO     | main | Market closed. Waiting... (08:48:58 PM)
+2026-10-28 20:53:58,395 | INFO     | main | Market closed. Waiting... (08:53:58 PM)
+2026-10-28 20:58:58,495 | INFO     | main | Market closed. Waiting... (08:58:58 PM)
+2026-10-28 21:03:58,587 | INFO     | main | Market closed. Waiting... (09:03:58 PM)
+2026-10-28 21:08:58,680 | INFO     | main | Market closed. Waiting... (09:08:58 PM)
+2026-10-28 21:13:58,778 | INFO     | main | Market closed. Waiting... (09:13:58 PM)
+2026-10-28 21:18:58,875 | INFO     | main | Market closed. Waiting... (09:18:58 PM)
+2026-10-28 21:23:58,975 | INFO     | main | Market closed. Waiting... (09:23:58 PM)
+2026-10-28 21:28:59,067 | INFO     | main | Market closed. Waiting... (09:28:59 PM)
+2026-10-28 21:33:59,162 | INFO     | main | Market closed. Waiting... (09:33:59 PM)
+2026-10-28 21:38:59,257 | INFO     | main | Market closed. Waiting... (09:38:59 PM)
+2026-10-28 21:43:59,264 | INFO     | main | Market closed. Waiting... (09:43:59 PM)
+2026-10-28 21:48:59,360 | INFO     | main | Market closed. Waiting... (09:48:59 PM)
+2026-10-28 21:53:59,457 | INFO     | main | Market closed. Waiting... (09:53:59 PM)
+2026-10-28 21:58:59,555 | INFO     | main | Market closed. Waiting... (09:58:59 PM)
+2026-10-28 22:03:59,652 | INFO     | main | Market closed. Waiting... (10:03:59 PM)
+2026-10-28 22:08:59,750 | INFO     | main | Market closed. Waiting... (10:08:59 PM)
+2026-10-28 22:13:59,847 | INFO     | main | Market closed. Waiting... (10:13:59 PM)
+2026-10-28 22:18:59,944 | INFO     | main | Market closed. Waiting... (10:18:59 PM)
+2026-10-28 22:24:00,042 | INFO     | main | Market closed. Waiting... (10:24:00 PM)
+2026-10-28 22:29:00,139 | INFO     | main | Market closed. Waiting... (10:29:00 PM)
+2026-10-28 22:34:00,237 | INFO     | main | Market closed. Waiting... (10:34:00 PM)
+2026-10-28 22:39:00,304 | INFO     | main | Market closed. Waiting... (10:39:00 PM)
