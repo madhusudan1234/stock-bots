@@ -1,56 +1,11 @@
 {
   "initial_capital": 10000,
-  "cash": 10195.499999999998,
+  "cash": 10070.499999999998,
   "daily_trades": 6,
-  "daily_wins": 1,
-  "last_reset_date": "2026-10-27",
+  "daily_wins": 0,
+  "last_reset_date": "2026-10-28",
   "positions": {},
   "trade_history": [
-    {
-      "action": "SELL",
-      "symbol": "HDFCBANK.NS",
-      "quantity": 4,
-      "price": 723.55,
-      "pnl": -2.800000000000182,
-      "reason": "STRATEGY SELL"
-    },
-    {
-      "action": "BUY",
-      "symbol": "RELIANCE.NS",
-      "quantity": 2,
-      "price": 1197.6,
-      "strategy": "MARKET_OPEN"
-    },
-    {
-      "action": "BUY",
-      "symbol": "TCS.NS",
-      "quantity": 1,
-      "price": 2070.7,
-      "strategy": "MARKET_OPEN"
-    },
-    {
-      "action": "BUY",
-      "symbol": "HDFCBANK.NS",
-      "quantity": 4,
-      "price": 719.05,
-      "strategy": "MARKET_OPEN"
-    },
-    {
-      "action": "SELL",
-      "symbol": "RELIANCE.NS",
-      "quantity": 2,
-      "price": 1194.8,
-      "pnl": -5.599999999999909,
-      "reason": "STRATEGY SELL"
-    },
-    {
-      "action": "SELL",
-      "symbol": "HDFCBANK.NS",
-      "quantity": 4,
-      "price": 714.85,
-      "pnl": -16.799999999999727,
-      "reason": "STRATEGY SELL"
-    },
     {
       "action": "SELL",
       "symbol": "TCS.NS",
@@ -754,6 +709,51 @@
       "price": 442.45,
       "pnl": 11.89999999999992,
       "reason": "SQUARE OFF"
+    },
+    {
+      "action": "BUY",
+      "symbol": "ITC.NS",
+      "quantity": 13,
+      "price": 260.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "INFY.NS",
+      "quantity": 2,
+      "price": 1163.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 6,
+      "price": 680.2,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 6,
+      "price": 680.2,
+      "pnl": 0.0,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "ITC.NS",
+      "quantity": 13,
+      "price": 256.3,
+      "pnl": -48.09999999999985,
+      "reason": "STOP LOSS"
+    },
+    {
+      "action": "SELL",
+      "symbol": "INFY.NS",
+      "quantity": 2,
+      "price": 1124.55,
+      "pnl": -76.90000000000009,
+      "reason": "STOP LOSS"
     }
   ]
 }
