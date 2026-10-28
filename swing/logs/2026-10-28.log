@@ -1,0 +1,475 @@
+2026-10-28 15:02:30,581 | INFO     | main | ============================================================
+2026-10-28 15:02:30,581 | INFO     | main | Indian Stock Trading Bot
+2026-10-28 15:02:30,581 | INFO     | main | ============================================================
+2026-10-28 15:02:30,581 | INFO     | main | Watching: RELIANCE.NS, TCS.NS, HDFCBANK.NS, INFY.NS, ICICIBANK.NS, HINDUNILVR.NS, SBIN.NS, BHARTIARTL.NS, KOTAKBANK.NS, ITC.NS
+2026-10-28 15:02:30,581 | INFO     | main | ============================================================
+2026-10-28 15:02:30,581 | INFO     | main | PAPER TRADING MODE
+2026-10-28 15:02:30,581 | INFO     | main | ============================================================
+2026-10-28 15:02:30,581 | INFO     | telegram | Telegram notifications enabled
+2026-10-28 15:02:30,581 | INFO     | portfolio | Loaded portfolio: ₹9463.80 cash, 0 positions
+2026-10-28 15:02:30,581 | INFO     | indian_fetcher | Indian Market Data Fetcher initialized
+2026-10-28 15:02:30,902 | INFO     | indian_fetcher | Yahoo crumb obtained
+2026-10-28 15:02:30,902 | INFO     | news_indian | Indian News Analyzer initialized
+2026-10-28 15:02:30,902 | INFO     | main | Capital: ₹9,463.80
+2026-10-28 15:02:30,902 | INFO     | main | Monitoring: RELIANCE.NS, TCS.NS, HDFCBANK.NS, INFY.NS, ICICIBANK.NS, HINDUNILVR.NS, SBIN.NS, BHARTIARTL.NS, KOTAKBANK.NS, ITC.NS
+2026-10-28 15:02:30,902 | INFO     | main | Scanning every 5 minutes
+2026-10-28 15:02:30,902 | INFO     | main | Telegram: ON
+2026-10-28 15:02:30,902 | INFO     | main | Press Ctrl+C to stop
+
+2026-10-28 15:02:41,192 | WARNING  | telegram | Telegram error: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=10)
+2026-10-28 15:02:41,193 | INFO     | main | 
+=======================================================
+2026-10-28 15:02:41,193 | INFO     | main | SCANNING: 03:02:41 PM
+2026-10-28 15:02:41,193 | INFO     | main | =======================================================
+2026-10-28 15:02:41,193 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-28 15:02:41,384 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-28 15:02:41,385 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-28 15:02:41,545 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-28 15:02:41,546 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-28 15:02:41,721 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-28 15:02:41,722 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-28 15:02:41,899 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-28 15:02:41,900 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-28 15:02:42,089 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-28 15:02:42,090 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-28 15:02:42,287 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-28 15:02:42,288 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-28 15:02:42,554 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-28 15:02:42,554 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-28 15:02:42,750 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-28 15:02:42,750 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-28 15:02:42,916 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-28 15:02:42,917 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-28 15:02:43,096 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-28 15:02:43,096 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-28 15:02:43,300 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-28 15:02:43,400 | INFO     | indian_fetcher | Got fundamentals for RELIANCE.NS
+2026-10-28 15:02:51,199 | WARNING  | news_indian | Could not fetch news for RELIANCE.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=RELIANCE%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:02:51,204 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-28 15:02:51,204 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-28 15:02:51,400 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-28 15:02:51,507 | INFO     | indian_fetcher | Got fundamentals for TCS.NS
+2026-10-28 15:02:58,689 | WARNING  | news_indian | Could not fetch news for TCS.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=TCS%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:02:58,694 | INFO     | fundamentals | Fundamental score: 56.5/100 (GOOD)
+2026-10-28 15:02:58,694 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-28 15:02:58,848 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-28 15:02:58,952 | INFO     | indian_fetcher | Got fundamentals for HDFCBANK.NS
+2026-10-28 15:03:06,862 | WARNING  | news_indian | Could not fetch news for HDFCBANK.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=HDFCBANK%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:03:06,867 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-28 15:03:06,867 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-28 15:03:07,027 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-28 15:03:07,124 | INFO     | indian_fetcher | Got fundamentals for INFY.NS
+2026-10-28 15:03:12,838 | WARNING  | news_indian | Could not fetch news for INFY.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=INFY%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:03:12,843 | INFO     | fundamentals | Fundamental score: 45.2/100 (NEUTRAL)
+2026-10-28 15:03:12,843 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-28 15:03:13,000 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-28 15:03:13,101 | INFO     | indian_fetcher | Got fundamentals for ICICIBANK.NS
+2026-10-28 15:03:21,506 | WARNING  | news_indian | Could not fetch news for ICICIBANK.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=ICICIBANK%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:03:21,510 | INFO     | fundamentals | Fundamental score: 77.5/100 (STRONG)
+2026-10-28 15:03:21,510 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-28 15:03:21,673 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-28 15:03:21,834 | INFO     | indian_fetcher | Got fundamentals for HINDUNILVR.NS
+2026-10-28 15:03:28,829 | WARNING  | news_indian | Could not fetch news for HINDUNILVR.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=HINDUNILVR%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:03:28,834 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-28 15:03:28,834 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-28 15:03:28,996 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-28 15:03:29,095 | INFO     | indian_fetcher | Got fundamentals for SBIN.NS
+2026-10-28 15:03:34,591 | WARNING  | news_indian | Could not fetch news for SBIN.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=SBIN%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:03:34,595 | INFO     | fundamentals | Fundamental score: 73.8/100 (STRONG)
+2026-10-28 15:03:34,595 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-28 15:03:34,778 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-28 15:03:34,887 | INFO     | indian_fetcher | Got fundamentals for BHARTIARTL.NS
+2026-10-28 15:03:40,569 | WARNING  | news_indian | Could not fetch news for BHARTIARTL.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=BHARTIARTL%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:03:40,574 | INFO     | fundamentals | Fundamental score: 57.8/100 (GOOD)
+2026-10-28 15:03:40,574 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-28 15:03:40,763 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-28 15:03:40,870 | INFO     | indian_fetcher | Got fundamentals for KOTAKBANK.NS
+2026-10-28 15:03:48,039 | WARNING  | news_indian | Could not fetch news for KOTAKBANK.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=KOTAKBANK%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:03:48,044 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-28 15:03:48,044 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-28 15:03:48,204 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-28 15:03:48,301 | INFO     | indian_fetcher | Got fundamentals for ITC.NS
+2026-10-28 15:03:55,820 | WARNING  | news_indian | Could not fetch news for ITC.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=ITC%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:03:55,825 | INFO     | fundamentals | Fundamental score: 42.2/100 (NEUTRAL)
+2026-10-28 15:03:55,825 | INFO     | portfolio | =======================================================
+2026-10-28 15:03:55,825 | INFO     | portfolio | PORTFOLIO SUMMARY
+2026-10-28 15:03:55,825 | INFO     | portfolio | =======================================================
+2026-10-28 15:03:55,825 | INFO     | portfolio | Cash:             ₹9,463.80
+2026-10-28 15:03:55,825 | INFO     | portfolio | Positions Value:  ₹0.00
+2026-10-28 15:03:55,825 | INFO     | portfolio | Total Value:      ₹9,463.80
+2026-10-28 15:03:55,825 | INFO     | portfolio | Total Return:     -5.36%
+2026-10-28 15:03:55,825 | INFO     | portfolio | Today's Trades:   30 | Win Rate: 3.3%
+2026-10-28 15:03:55,825 | INFO     | portfolio | =======================================================
+2026-10-28 15:03:56,387 | INFO     | main | Next scan in 5 minutes... (15:03:56)
+2026-10-28 15:08:56,487 | INFO     | main | 
+=======================================================
+2026-10-28 15:08:56,487 | INFO     | main | SCANNING: 03:08:56 PM
+2026-10-28 15:08:56,487 | INFO     | main | =======================================================
+2026-10-28 15:08:56,487 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-28 15:08:56,687 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-28 15:08:56,687 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-28 15:08:56,850 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-28 15:08:56,850 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-28 15:08:57,044 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-28 15:08:57,045 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-28 15:08:57,202 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-28 15:08:57,203 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-28 15:08:57,373 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-28 15:08:57,374 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-28 15:08:57,573 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-28 15:08:57,574 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-28 15:08:57,737 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-28 15:08:57,737 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-28 15:08:57,938 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-28 15:08:57,938 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-28 15:08:58,110 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-28 15:08:58,110 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-28 15:08:58,275 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-28 15:08:58,275 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-28 15:08:58,468 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-28 15:08:58,657 | INFO     | indian_fetcher | Got fundamentals for RELIANCE.NS
+2026-10-28 15:09:07,700 | WARNING  | news_indian | Could not fetch news for RELIANCE.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=RELIANCE%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:09:07,705 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-28 15:09:07,705 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-28 15:09:07,865 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-28 15:09:07,988 | INFO     | indian_fetcher | Got fundamentals for TCS.NS
+2026-10-28 15:09:13,356 | WARNING  | news_indian | Could not fetch news for TCS.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=TCS%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:09:13,360 | INFO     | fundamentals | Fundamental score: 56.5/100 (GOOD)
+2026-10-28 15:09:13,360 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-28 15:09:13,532 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-28 15:09:13,604 | INFO     | indian_fetcher | Got fundamentals for HDFCBANK.NS
+2026-10-28 15:09:21,358 | WARNING  | news_indian | Could not fetch news for HDFCBANK.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=HDFCBANK%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:09:21,362 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-28 15:09:21,362 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-28 15:09:21,525 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-28 15:09:21,669 | INFO     | indian_fetcher | Got fundamentals for INFY.NS
+2026-10-28 15:09:27,035 | WARNING  | news_indian | Could not fetch news for INFY.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=INFY%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:09:27,039 | INFO     | fundamentals | Fundamental score: 45.2/100 (NEUTRAL)
+2026-10-28 15:09:27,039 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-28 15:09:27,285 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-28 15:09:27,358 | INFO     | indian_fetcher | Got fundamentals for ICICIBANK.NS
+2026-10-28 15:09:34,140 | WARNING  | news_indian | Could not fetch news for ICICIBANK.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=ICICIBANK%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:09:34,144 | INFO     | fundamentals | Fundamental score: 77.5/100 (STRONG)
+2026-10-28 15:09:34,144 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-28 15:09:34,309 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-28 15:09:34,386 | INFO     | indian_fetcher | Got fundamentals for HINDUNILVR.NS
+2026-10-28 15:09:43,029 | WARNING  | news_indian | Could not fetch news for HINDUNILVR.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=HINDUNILVR%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:09:43,033 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-28 15:09:43,033 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-28 15:09:43,240 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-28 15:09:43,328 | INFO     | indian_fetcher | Got fundamentals for SBIN.NS
+2026-10-28 15:09:51,363 | WARNING  | news_indian | Could not fetch news for SBIN.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=SBIN%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:09:51,367 | INFO     | fundamentals | Fundamental score: 73.8/100 (STRONG)
+2026-10-28 15:09:51,367 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-28 15:09:51,529 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-28 15:09:51,601 | INFO     | indian_fetcher | Got fundamentals for BHARTIARTL.NS
+2026-10-28 15:09:58,769 | WARNING  | news_indian | Could not fetch news for BHARTIARTL.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=BHARTIARTL%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:09:58,773 | INFO     | fundamentals | Fundamental score: 57.8/100 (GOOD)
+2026-10-28 15:09:58,773 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-28 15:09:58,971 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-28 15:09:59,088 | INFO     | indian_fetcher | Got fundamentals for KOTAKBANK.NS
+2026-10-28 15:10:08,494 | WARNING  | news_indian | Could not fetch news for KOTAKBANK.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=KOTAKBANK%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:10:08,498 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-28 15:10:08,498 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-28 15:10:08,695 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-28 15:10:08,774 | INFO     | indian_fetcher | Got fundamentals for ITC.NS
+2026-10-28 15:10:17,417 | WARNING  | news_indian | Could not fetch news for ITC.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=ITC%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:10:17,421 | INFO     | fundamentals | Fundamental score: 42.2/100 (NEUTRAL)
+2026-10-28 15:10:17,421 | INFO     | portfolio | =======================================================
+2026-10-28 15:10:17,421 | INFO     | portfolio | PORTFOLIO SUMMARY
+2026-10-28 15:10:17,421 | INFO     | portfolio | =======================================================
+2026-10-28 15:10:17,421 | INFO     | portfolio | Cash:             ₹9,463.80
+2026-10-28 15:10:17,421 | INFO     | portfolio | Positions Value:  ₹0.00
+2026-10-28 15:10:17,421 | INFO     | portfolio | Total Value:      ₹9,463.80
+2026-10-28 15:10:17,421 | INFO     | portfolio | Total Return:     -5.36%
+2026-10-28 15:10:17,421 | INFO     | portfolio | Today's Trades:   30 | Win Rate: 3.3%
+2026-10-28 15:10:17,421 | INFO     | portfolio | =======================================================
+2026-10-28 15:10:17,979 | INFO     | main | Next scan in 5 minutes... (15:10:17)
+2026-10-28 15:15:18,068 | INFO     | main | 
+=======================================================
+2026-10-28 15:15:18,068 | INFO     | main | SCANNING: 03:15:18 PM
+2026-10-28 15:15:18,068 | INFO     | main | =======================================================
+2026-10-28 15:15:18,068 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-28 15:15:18,305 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-28 15:15:18,306 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-28 15:15:18,497 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-28 15:15:18,498 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-28 15:15:18,660 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-28 15:15:18,661 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-28 15:15:18,843 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-28 15:15:18,844 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-28 15:15:19,042 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-28 15:15:19,042 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-28 15:15:19,198 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-28 15:15:19,199 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-28 15:15:19,370 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-28 15:15:19,370 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-28 15:15:19,566 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-28 15:15:19,566 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-28 15:15:19,725 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-28 15:15:19,725 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-28 15:15:19,899 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-28 15:15:19,900 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-28 15:15:20,105 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-28 15:15:20,274 | INFO     | indian_fetcher | Got fundamentals for RELIANCE.NS
+2026-10-28 15:15:26,907 | WARNING  | news_indian | Could not fetch news for RELIANCE.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=RELIANCE%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:15:26,911 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-28 15:15:26,911 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-28 15:15:27,052 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-28 15:15:27,125 | INFO     | indian_fetcher | Got fundamentals for TCS.NS
+2026-10-28 15:15:36,459 | WARNING  | news_indian | Could not fetch news for TCS.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=TCS%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:15:36,464 | INFO     | fundamentals | Fundamental score: 56.5/100 (GOOD)
+2026-10-28 15:15:36,464 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-28 15:15:36,606 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-28 15:15:36,680 | INFO     | indian_fetcher | Got fundamentals for HDFCBANK.NS
+2026-10-28 15:15:43,634 | WARNING  | news_indian | Could not fetch news for HDFCBANK.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=HDFCBANK%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:15:43,638 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-28 15:15:43,638 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-28 15:15:43,793 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-28 15:15:43,863 | INFO     | indian_fetcher | Got fundamentals for INFY.NS
+2026-10-28 15:15:52,742 | WARNING  | news_indian | Could not fetch news for INFY.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=INFY%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:15:52,746 | INFO     | fundamentals | Fundamental score: 45.2/100 (NEUTRAL)
+2026-10-28 15:15:52,746 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-28 15:15:52,883 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-28 15:15:52,953 | INFO     | indian_fetcher | Got fundamentals for ICICIBANK.NS
+2026-10-28 15:15:58,295 | WARNING  | news_indian | Could not fetch news for ICICIBANK.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=ICICIBANK%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:15:58,299 | INFO     | fundamentals | Fundamental score: 77.5/100 (STRONG)
+2026-10-28 15:15:58,299 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-28 15:15:58,496 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-28 15:15:58,574 | INFO     | indian_fetcher | Got fundamentals for HINDUNILVR.NS
+2026-10-28 15:16:04,735 | WARNING  | news_indian | Could not fetch news for HINDUNILVR.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=HINDUNILVR%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:16:04,740 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-28 15:16:04,740 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-28 15:16:04,882 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-28 15:16:04,956 | INFO     | indian_fetcher | Got fundamentals for SBIN.NS
+2026-10-28 15:16:13,602 | WARNING  | news_indian | Could not fetch news for SBIN.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=SBIN%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:16:13,607 | INFO     | fundamentals | Fundamental score: 73.8/100 (STRONG)
+2026-10-28 15:16:13,607 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-28 15:16:13,740 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-28 15:16:13,819 | INFO     | indian_fetcher | Got fundamentals for BHARTIARTL.NS
+2026-10-28 15:16:23,357 | WARNING  | news_indian | Could not fetch news for BHARTIARTL.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=BHARTIARTL%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:16:23,362 | INFO     | fundamentals | Fundamental score: 57.8/100 (GOOD)
+2026-10-28 15:16:23,362 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-28 15:16:23,562 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-28 15:16:23,635 | INFO     | indian_fetcher | Got fundamentals for KOTAKBANK.NS
+2026-10-28 15:16:33,391 | WARNING  | news_indian | Could not fetch news for KOTAKBANK.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=KOTAKBANK%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:16:33,395 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-28 15:16:33,395 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-28 15:16:33,590 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-28 15:16:33,665 | INFO     | indian_fetcher | Got fundamentals for ITC.NS
+2026-10-28 15:16:39,752 | WARNING  | news_indian | Could not fetch news for ITC.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=ITC%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:16:39,756 | INFO     | fundamentals | Fundamental score: 42.2/100 (NEUTRAL)
+2026-10-28 15:16:39,757 | INFO     | portfolio | =======================================================
+2026-10-28 15:16:39,757 | INFO     | portfolio | PORTFOLIO SUMMARY
+2026-10-28 15:16:39,757 | INFO     | portfolio | =======================================================
+2026-10-28 15:16:39,757 | INFO     | portfolio | Cash:             ₹9,463.80
+2026-10-28 15:16:39,757 | INFO     | portfolio | Positions Value:  ₹0.00
+2026-10-28 15:16:39,757 | INFO     | portfolio | Total Value:      ₹9,463.80
+2026-10-28 15:16:39,757 | INFO     | portfolio | Total Return:     -5.36%
+2026-10-28 15:16:39,757 | INFO     | portfolio | Today's Trades:   30 | Win Rate: 3.3%
+2026-10-28 15:16:39,757 | INFO     | portfolio | =======================================================
+2026-10-28 15:16:40,331 | INFO     | main | Next scan in 5 minutes... (15:16:40)
+2026-10-28 15:21:40,404 | INFO     | main | 
+=======================================================
+2026-10-28 15:21:40,404 | INFO     | main | SCANNING: 03:21:40 PM
+2026-10-28 15:21:40,404 | INFO     | main | =======================================================
+2026-10-28 15:21:40,404 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-28 15:21:40,645 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-28 15:21:40,646 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-28 15:21:40,792 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-28 15:21:40,793 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-28 15:21:40,911 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-28 15:21:40,912 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-28 15:21:41,033 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-28 15:21:41,033 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-28 15:21:41,202 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-28 15:21:41,203 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-28 15:21:41,352 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-28 15:21:41,353 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-28 15:21:41,471 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-28 15:21:41,471 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-28 15:21:41,620 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-28 15:21:41,621 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-28 15:21:41,801 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-28 15:21:41,801 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-28 15:21:41,916 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-28 15:21:41,917 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-28 15:21:42,023 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-28 15:21:42,203 | INFO     | indian_fetcher | Got fundamentals for RELIANCE.NS
+2026-10-28 15:21:51,559 | WARNING  | news_indian | Could not fetch news for RELIANCE.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=RELIANCE%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:21:51,564 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-28 15:21:51,564 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-28 15:21:51,728 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-28 15:21:51,830 | INFO     | indian_fetcher | Got fundamentals for TCS.NS
+2026-10-28 15:21:59,299 | WARNING  | news_indian | Could not fetch news for TCS.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=TCS%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:21:59,304 | INFO     | fundamentals | Fundamental score: 56.5/100 (GOOD)
+2026-10-28 15:21:59,304 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-28 15:21:59,505 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-28 15:21:59,600 | INFO     | indian_fetcher | Got fundamentals for HDFCBANK.NS
+2026-10-28 15:22:04,924 | WARNING  | news_indian | Could not fetch news for HDFCBANK.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=HDFCBANK%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:22:04,928 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-28 15:22:04,928 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-28 15:22:05,135 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-28 15:22:05,223 | INFO     | indian_fetcher | Got fundamentals for INFY.NS
+2026-10-28 15:22:13,853 | WARNING  | news_indian | Could not fetch news for INFY.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=INFY%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:22:13,858 | INFO     | fundamentals | Fundamental score: 45.2/100 (NEUTRAL)
+2026-10-28 15:22:13,858 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-28 15:22:14,049 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-28 15:22:14,141 | INFO     | indian_fetcher | Got fundamentals for ICICIBANK.NS
+2026-10-28 15:22:22,506 | WARNING  | news_indian | Could not fetch news for ICICIBANK.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=ICICIBANK%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:22:22,510 | INFO     | fundamentals | Fundamental score: 77.5/100 (STRONG)
+2026-10-28 15:22:22,510 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-28 15:22:22,689 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-28 15:22:22,782 | INFO     | indian_fetcher | Got fundamentals for HINDUNILVR.NS
+2026-10-28 15:22:31,666 | WARNING  | news_indian | Could not fetch news for HINDUNILVR.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=HINDUNILVR%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:22:31,671 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-28 15:22:31,671 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-28 15:22:31,874 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-28 15:22:31,969 | INFO     | indian_fetcher | Got fundamentals for SBIN.NS
+2026-10-28 15:22:40,496 | WARNING  | news_indian | Could not fetch news for SBIN.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=SBIN%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:22:40,500 | INFO     | fundamentals | Fundamental score: 73.8/100 (STRONG)
+2026-10-28 15:22:40,500 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-28 15:22:40,686 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-28 15:22:40,779 | INFO     | indian_fetcher | Got fundamentals for BHARTIARTL.NS
+2026-10-28 15:22:46,816 | WARNING  | news_indian | Could not fetch news for BHARTIARTL.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=BHARTIARTL%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:22:46,820 | INFO     | fundamentals | Fundamental score: 57.8/100 (GOOD)
+2026-10-28 15:22:46,820 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-28 15:22:46,983 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-28 15:22:47,070 | INFO     | indian_fetcher | Got fundamentals for KOTAKBANK.NS
+2026-10-28 15:22:54,639 | WARNING  | news_indian | Could not fetch news for KOTAKBANK.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=KOTAKBANK%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:22:54,643 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-28 15:22:54,643 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-28 15:22:54,804 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-28 15:22:54,889 | INFO     | indian_fetcher | Got fundamentals for ITC.NS
+2026-10-28 15:23:00,838 | WARNING  | news_indian | Could not fetch news for ITC.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=ITC%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:23:00,842 | INFO     | fundamentals | Fundamental score: 42.2/100 (NEUTRAL)
+2026-10-28 15:23:00,842 | INFO     | portfolio | =======================================================
+2026-10-28 15:23:00,842 | INFO     | portfolio | PORTFOLIO SUMMARY
+2026-10-28 15:23:00,842 | INFO     | portfolio | =======================================================
+2026-10-28 15:23:00,842 | INFO     | portfolio | Cash:             ₹9,463.80
+2026-10-28 15:23:00,842 | INFO     | portfolio | Positions Value:  ₹0.00
+2026-10-28 15:23:00,842 | INFO     | portfolio | Total Value:      ₹9,463.80
+2026-10-28 15:23:00,842 | INFO     | portfolio | Total Return:     -5.36%
+2026-10-28 15:23:00,842 | INFO     | portfolio | Today's Trades:   30 | Win Rate: 3.3%
+2026-10-28 15:23:00,843 | INFO     | portfolio | =======================================================
+2026-10-28 15:23:01,430 | INFO     | main | Next scan in 5 minutes... (15:23:01)
+2026-10-28 15:28:01,440 | INFO     | main | 
+=======================================================
+2026-10-28 15:28:01,441 | INFO     | main | SCANNING: 03:28:01 PM
+2026-10-28 15:28:01,441 | INFO     | main | =======================================================
+2026-10-28 15:28:01,441 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-28 15:28:01,640 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-28 15:28:01,641 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-28 15:28:01,836 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-28 15:28:01,837 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-28 15:28:02,027 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-28 15:28:02,028 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-28 15:28:02,244 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-28 15:28:02,245 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-28 15:28:02,427 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-28 15:28:02,428 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-28 15:28:02,593 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-28 15:28:02,594 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-28 15:28:02,755 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-28 15:28:02,756 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-28 15:28:02,919 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-28 15:28:02,920 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-28 15:28:03,132 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-28 15:28:03,133 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-28 15:28:03,310 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-28 15:28:03,312 | INFO     | indian_fetcher | Fetching historical data: RELIANCE.NS (3mo, 1d)
+2026-10-28 15:28:03,439 | INFO     | indian_fetcher | Got 64 rows for RELIANCE.NS
+2026-10-28 15:28:03,589 | INFO     | indian_fetcher | Got fundamentals for RELIANCE.NS
+2026-10-28 15:28:10,285 | WARNING  | news_indian | Could not fetch news for RELIANCE.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=RELIANCE%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:28:10,289 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-28 15:28:10,289 | INFO     | indian_fetcher | Fetching historical data: TCS.NS (3mo, 1d)
+2026-10-28 15:28:10,445 | INFO     | indian_fetcher | Got 64 rows for TCS.NS
+2026-10-28 15:28:10,510 | INFO     | indian_fetcher | Got fundamentals for TCS.NS
+2026-10-28 15:28:19,732 | WARNING  | news_indian | Could not fetch news for TCS.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=TCS%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:28:19,737 | INFO     | fundamentals | Fundamental score: 56.5/100 (GOOD)
+2026-10-28 15:28:19,737 | INFO     | indian_fetcher | Fetching historical data: HDFCBANK.NS (3mo, 1d)
+2026-10-28 15:28:19,909 | INFO     | indian_fetcher | Got 64 rows for HDFCBANK.NS
+2026-10-28 15:28:19,984 | INFO     | indian_fetcher | Got fundamentals for HDFCBANK.NS
+2026-10-28 15:28:28,194 | WARNING  | news_indian | Could not fetch news for HDFCBANK.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=HDFCBANK%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:28:28,198 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-28 15:28:28,198 | INFO     | indian_fetcher | Fetching historical data: INFY.NS (3mo, 1d)
+2026-10-28 15:28:28,358 | INFO     | indian_fetcher | Got 64 rows for INFY.NS
+2026-10-28 15:28:28,427 | INFO     | indian_fetcher | Got fundamentals for INFY.NS
+2026-10-28 15:28:35,754 | WARNING  | news_indian | Could not fetch news for INFY.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=INFY%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:28:35,758 | INFO     | fundamentals | Fundamental score: 45.2/100 (NEUTRAL)
+2026-10-28 15:28:35,758 | INFO     | indian_fetcher | Fetching historical data: ICICIBANK.NS (3mo, 1d)
+2026-10-28 15:28:35,953 | INFO     | indian_fetcher | Got 64 rows for ICICIBANK.NS
+2026-10-28 15:28:36,022 | INFO     | indian_fetcher | Got fundamentals for ICICIBANK.NS
+2026-10-28 15:28:44,961 | WARNING  | news_indian | Could not fetch news for ICICIBANK.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=ICICIBANK%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:28:44,965 | INFO     | fundamentals | Fundamental score: 77.5/100 (STRONG)
+2026-10-28 15:28:44,965 | INFO     | indian_fetcher | Fetching historical data: HINDUNILVR.NS (3mo, 1d)
+2026-10-28 15:28:45,165 | INFO     | indian_fetcher | Got 64 rows for HINDUNILVR.NS
+2026-10-28 15:28:45,265 | INFO     | indian_fetcher | Got fundamentals for HINDUNILVR.NS
+2026-10-28 15:28:55,250 | WARNING  | news_indian | Could not fetch news for HINDUNILVR.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=HINDUNILVR%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:28:55,254 | INFO     | fundamentals | Fundamental score: 41.5/100 (NEUTRAL)
+2026-10-28 15:28:55,255 | INFO     | indian_fetcher | Fetching historical data: SBIN.NS (3mo, 1d)
+2026-10-28 15:28:55,417 | INFO     | indian_fetcher | Got 64 rows for SBIN.NS
+2026-10-28 15:28:55,522 | INFO     | indian_fetcher | Got fundamentals for SBIN.NS
+2026-10-28 15:29:01,816 | WARNING  | news_indian | Could not fetch news for SBIN.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=SBIN%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:29:01,820 | INFO     | fundamentals | Fundamental score: 73.8/100 (STRONG)
+2026-10-28 15:29:01,820 | INFO     | indian_fetcher | Fetching historical data: BHARTIARTL.NS (3mo, 1d)
+2026-10-28 15:29:02,046 | INFO     | indian_fetcher | Got 64 rows for BHARTIARTL.NS
+2026-10-28 15:29:02,116 | INFO     | indian_fetcher | Got fundamentals for BHARTIARTL.NS
+2026-10-28 15:29:08,068 | WARNING  | news_indian | Could not fetch news for BHARTIARTL.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=BHARTIARTL%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:29:08,073 | INFO     | fundamentals | Fundamental score: 57.8/100 (GOOD)
+2026-10-28 15:29:08,073 | INFO     | indian_fetcher | Fetching historical data: KOTAKBANK.NS (3mo, 1d)
+2026-10-28 15:29:08,245 | INFO     | indian_fetcher | Got 64 rows for KOTAKBANK.NS
+2026-10-28 15:29:08,314 | INFO     | indian_fetcher | Got fundamentals for KOTAKBANK.NS
+2026-10-28 15:29:14,307 | WARNING  | news_indian | Could not fetch news for KOTAKBANK.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=KOTAKBANK%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:29:14,312 | INFO     | fundamentals | Fundamental score: 88.8/100 (STRONG)
+2026-10-28 15:29:14,312 | INFO     | indian_fetcher | Fetching historical data: ITC.NS (3mo, 1d)
+2026-10-28 15:29:14,487 | INFO     | indian_fetcher | Got 64 rows for ITC.NS
+2026-10-28 15:29:14,555 | INFO     | indian_fetcher | Got fundamentals for ITC.NS
+2026-10-28 15:29:19,773 | WARNING  | news_indian | Could not fetch news for ITC.NS: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=ITC%20stock%20market%20NSE&hl=en-IN&gl=IN&ceid=IN:en
+2026-10-28 15:29:19,778 | INFO     | fundamentals | Fundamental score: 42.2/100 (NEUTRAL)
+2026-10-28 15:29:19,778 | INFO     | portfolio | =======================================================
+2026-10-28 15:29:19,778 | INFO     | portfolio | PORTFOLIO SUMMARY
+2026-10-28 15:29:19,778 | INFO     | portfolio | =======================================================
+2026-10-28 15:29:19,778 | INFO     | portfolio | Cash:             ₹9,463.80
+2026-10-28 15:29:19,778 | INFO     | portfolio | Positions Value:  ₹0.00
+2026-10-28 15:29:19,778 | INFO     | portfolio | Total Value:      ₹9,463.80
+2026-10-28 15:29:19,778 | INFO     | portfolio | Total Return:     -5.36%
+2026-10-28 15:29:19,778 | INFO     | portfolio | Today's Trades:   30 | Win Rate: 3.3%
+2026-10-28 15:29:19,778 | INFO     | portfolio | =======================================================
+2026-10-28 15:29:20,379 | INFO     | main | Next scan in 5 minutes... (15:29:20)
+2026-10-28 15:34:20,440 | INFO     | main | Market closed. Waiting... (03:34:20 PM)
+2026-10-28 15:39:20,540 | INFO     | main | Market closed. Waiting... (03:39:20 PM)
+2026-10-28 15:44:20,596 | INFO     | main | Market closed. Waiting... (03:44:20 PM)
+2026-10-28 15:49:20,675 | INFO     | main | Market closed. Waiting... (03:49:20 PM)
+2026-10-28 15:54:20,772 | INFO     | main | Market closed. Waiting... (03:54:20 PM)
+2026-10-28 15:59:20,820 | INFO     | main | Market closed. Waiting... (03:59:20 PM)
+2026-10-28 16:04:20,892 | INFO     | main | Market closed. Waiting... (04:04:20 PM)
+2026-10-28 16:09:20,992 | INFO     | main | Market closed. Waiting... (04:09:20 PM)
+2026-10-28 16:14:21,028 | INFO     | main | Market closed. Waiting... (04:14:21 PM)
+2026-10-28 16:19:21,122 | INFO     | main | Market closed. Waiting... (04:19:21 PM)
+2026-10-28 16:24:21,195 | INFO     | main | Market closed. Waiting... (04:24:21 PM)
+2026-10-28 16:29:21,273 | INFO     | main | Market closed. Waiting... (04:29:21 PM)
+2026-10-28 16:34:21,364 | INFO     | main | Market closed. Waiting... (04:34:21 PM)
+2026-10-28 16:39:21,464 | INFO     | main | Market closed. Waiting... (04:39:21 PM)
+2026-10-28 16:44:21,492 | INFO     | main | Market closed. Waiting... (04:44:21 PM)
+2026-10-28 16:49:21,564 | INFO     | main | Market closed. Waiting... (04:49:21 PM)
+2026-10-28 16:54:21,580 | INFO     | main | Market closed. Waiting... (04:54:21 PM)
+2026-10-28 16:59:21,668 | INFO     | main | Market closed. Waiting... (04:59:21 PM)
+2026-10-28 17:04:21,684 | INFO     | main | Market closed. Waiting... (05:04:21 PM)
+2026-10-28 17:09:21,771 | INFO     | main | Market closed. Waiting... (05:09:21 PM)
+2026-10-28 17:14:21,868 | INFO     | main | Market closed. Waiting... (05:14:21 PM)
+2026-10-28 17:19:21,893 | INFO     | main | Market closed. Waiting... (05:19:21 PM)
+2026-10-28 17:24:21,994 | INFO     | main | Market closed. Waiting... (05:24:21 PM)
+2026-10-28 17:29:22,094 | INFO     | main | Market closed. Waiting... (05:29:22 PM)
+2026-10-28 17:34:22,194 | INFO     | main | Market closed. Waiting... (05:34:22 PM)
+2026-10-28 17:39:22,295 | INFO     | main | Market closed. Waiting... (05:39:22 PM)
+2026-10-28 17:44:22,316 | INFO     | main | Market closed. Waiting... (05:44:22 PM)
+2026-10-28 17:49:22,416 | INFO     | main | Market closed. Waiting... (05:49:22 PM)
+2026-10-28 17:54:22,487 | INFO     | main | Market closed. Waiting... (05:54:22 PM)
+2026-10-28 17:59:22,587 | INFO     | main | Market closed. Waiting... (05:59:22 PM)
+2026-10-28 18:04:22,684 | INFO     | main | Market closed. Waiting... (06:04:22 PM)
+2026-10-28 18:09:22,767 | INFO     | main | Market closed. Waiting... (06:09:22 PM)
+2026-10-28 18:14:22,868 | INFO     | main | Market closed. Waiting... (06:14:22 PM)
+2026-10-28 18:19:22,916 | INFO     | main | Market closed. Waiting... (06:19:22 PM)
+2026-10-28 18:24:23,002 | INFO     | main | Market closed. Waiting... (06:24:23 PM)
+2026-10-28 18:29:23,103 | INFO     | main | Market closed. Waiting... (06:29:23 PM)
