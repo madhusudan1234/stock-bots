@@ -1,56 +1,11 @@
 {
   "initial_capital": 10000,
-  "cash": 10070.499999999998,
+  "cash": 10138.3,
   "daily_trades": 6,
-  "daily_wins": 0,
-  "last_reset_date": "2026-10-28",
+  "daily_wins": 1,
+  "last_reset_date": "2026-10-29",
   "positions": {},
   "trade_history": [
-    {
-      "action": "SELL",
-      "symbol": "TCS.NS",
-      "quantity": 1,
-      "price": 2069.5,
-      "pnl": -1.199999999999818,
-      "reason": "STRATEGY SELL"
-    },
-    {
-      "action": "BUY",
-      "symbol": "HDFCBANK.NS",
-      "quantity": 4,
-      "price": 722.7,
-      "strategy": "MARKET_OPEN"
-    },
-    {
-      "action": "BUY",
-      "symbol": "KOTAKBANK.NS",
-      "quantity": 8,
-      "price": 406.0,
-      "strategy": "MARKET_OPEN"
-    },
-    {
-      "action": "BUY",
-      "symbol": "RELIANCE.NS",
-      "quantity": 2,
-      "price": 1182.0,
-      "strategy": "MARKET_OPEN"
-    },
-    {
-      "action": "SELL",
-      "symbol": "RELIANCE.NS",
-      "quantity": 2,
-      "price": 1182.0,
-      "pnl": 0.0,
-      "reason": "STRATEGY SELL"
-    },
-    {
-      "action": "SELL",
-      "symbol": "HDFCBANK.NS",
-      "quantity": 4,
-      "price": 711.95,
-      "pnl": -43.0,
-      "reason": "STOP LOSS"
-    },
     {
       "action": "SELL",
       "symbol": "KOTAKBANK.NS",
@@ -754,6 +709,51 @@
       "price": 1124.55,
       "pnl": -76.90000000000009,
       "reason": "STOP LOSS"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 685.3,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 8,
+      "price": 440.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "BHARTIARTL.NS",
+      "quantity": 1,
+      "price": 1948.1,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 680.35,
+      "pnl": -19.799999999999727,
+      "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "BHARTIARTL.NS",
+      "quantity": 1,
+      "price": 1947.7,
+      "pnl": -0.3999999999998636,
+      "reason": "STOP LOSS"
+    },
+    {
+      "action": "SELL",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 8,
+      "price": 451.0,
+      "pnl": 88.0,
+      "reason": "TAKE PROFIT"
     }
   ]
 }
