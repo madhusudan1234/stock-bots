@@ -1,49 +1,21 @@
 {
   "initial_capital": 10000,
-  "cash": 10122.55,
-  "daily_trades": 6,
+  "cash": 6511.8499999999985,
+  "daily_trades": 5,
   "daily_wins": 1,
-  "last_reset_date": "2026-11-02",
-  "positions": {},
+  "last_reset_date": "2026-11-03",
+  "positions": {
+    "KOTAKBANK.NS": {
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 8,
+      "avg_entry_price": 458.35,
+      "current_price": 456.3,
+      "stop_loss": 452.8498,
+      "take_profit": 469.80875,
+      "strategy": "MARKET_OPEN"
+    }
+  },
   "trade_history": [
-    {
-      "action": "BUY",
-      "symbol": "RELIANCE.NS",
-      "quantity": 2,
-      "price": 1218.0,
-      "strategy": "MARKET_OPEN"
-    },
-    {
-      "action": "SELL",
-      "symbol": "HDFCBANK.NS",
-      "quantity": 4,
-      "price": 707.05,
-      "pnl": -17.600000000000364,
-      "reason": "STRATEGY SELL"
-    },
-    {
-      "action": "SELL",
-      "symbol": "KOTAKBANK.NS",
-      "quantity": 7,
-      "price": 440.4,
-      "pnl": 59.5,
-      "reason": "SQUARE OFF"
-    },
-    {
-      "action": "SELL",
-      "symbol": "RELIANCE.NS",
-      "quantity": 2,
-      "price": 1206.2,
-      "pnl": -23.59999999999991,
-      "reason": "SQUARE OFF"
-    },
-    {
-      "action": "BUY",
-      "symbol": "KOTAKBANK.NS",
-      "quantity": 7,
-      "price": 440.0,
-      "strategy": "MARKET_OPEN"
-    },
     {
       "action": "BUY",
       "symbol": "HDFCBANK.NS",
@@ -756,6 +728,43 @@
       "price": 458.35,
       "pnl": -22.75,
       "reason": "SQUARE OFF"
+    },
+    {
+      "action": "BUY",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1300.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 5,
+      "price": 700.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 8,
+      "price": 458.35,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1284.3,
+      "pnl": -31.40000000000009,
+      "reason": "STOP LOSS"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 5,
+      "price": 717.5,
+      "pnl": 87.5,
+      "reason": "TAKE PROFIT"
     }
   ]
 }
