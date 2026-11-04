@@ -1,42 +1,30 @@
 {
   "initial_capital": 10000,
-  "cash": 10229.05,
-  "daily_trades": 6,
-  "daily_wins": 2,
-  "last_reset_date": "2026-11-03",
-  "positions": {},
-  "trade_history": [
-    {
-      "action": "BUY",
-      "symbol": "INFY.NS",
-      "quantity": 3,
-      "price": 992.0,
+  "cash": 2508.7499999999995,
+  "daily_trades": 4,
+  "daily_wins": 0,
+  "last_reset_date": "2026-11-04",
+  "positions": {
+    "RELIANCE.NS": {
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "avg_entry_price": 1307.9,
+      "current_price": 1307.1,
+      "stop_loss": 1292.2052,
+      "take_profit": 1340.5975,
       "strategy": "MARKET_OPEN"
     },
-    {
-      "action": "SELL",
+    "HDFCBANK.NS": {
       "symbol": "HDFCBANK.NS",
-      "quantity": 4,
-      "price": 702.75,
-      "pnl": 0.0,
-      "reason": "STRATEGY SELL"
-    },
-    {
-      "action": "SELL",
-      "symbol": "INFY.NS",
-      "quantity": 3,
-      "price": 1006.25,
-      "pnl": 42.75,
-      "reason": "STRATEGY SELL"
-    },
-    {
-      "action": "SELL",
-      "symbol": "KOTAKBANK.NS",
       "quantity": 7,
-      "price": 434.6,
-      "pnl": -37.79999999999984,
-      "reason": "STOP LOSS"
-    },
+      "avg_entry_price": 725.5,
+      "current_price": 732.6,
+      "stop_loss": 725.5,
+      "take_profit": 743.6374999999999,
+      "strategy": "MARKET_OPEN"
+    }
+  },
+  "trade_history": [
     {
       "action": "BUY",
       "symbol": "HDFCBANK.NS",
@@ -756,6 +744,35 @@
       "price": 464.65,
       "pnl": 50.399999999999636,
       "reason": "SQUARE OFF"
+    },
+    {
+      "action": "BUY",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1307.9,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "TCS.NS",
+      "quantity": 1,
+      "price": 2499.1,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 7,
+      "price": 725.5,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "TCS.NS",
+      "quantity": 1,
+      "price": 2473.1,
+      "pnl": -26.0,
+      "reason": "STRATEGY SELL"
     }
   ]
 }
