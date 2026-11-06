@@ -24553,3 +24553,33 @@
 2026-11-06 12:53:10,617 | INFO    | intraday_portfolio |   HDFCBANK.NS: 6 shares | Entry: 765.00 | Current: 777.80 | P&L: +76.80 (+1.7%)
 2026-11-06 12:53:10,617 | INFO    | intraday_portfolio | =======================================================
 2026-11-06 12:53:10,618 | INFO    | main | Next scan in 15s...
+2026-11-06 16:13:02,103 | INFO    | main | ============================================================
+2026-11-06 16:13:02,103 | INFO    | main | Intraday Stock Trading Bot (NSE)
+2026-11-06 16:13:02,103 | INFO    | main | ============================================================
+2026-11-06 16:13:02,103 | INFO    | main | ============================================================
+2026-11-06 16:13:02,103 | INFO    | main | INTRADAY TRADING BOT
+2026-11-06 16:13:02,103 | INFO    | main | ============================================================
+2026-11-06 16:13:02,103 | INFO    | telegram | Telegram notifications enabled
+2026-11-06 16:13:02,104 | INFO    | intraday_portfolio | Loaded portfolio: 3066.1500000000015 cash, 2 positions
+2026-11-06 16:13:02,374 | INFO    | live_fetcher | Yahoo crumb obtained
+2026-11-06 16:13:02,374 | INFO    | main | Capital: 3066.1500000000015
+2026-11-06 16:13:02,374 | INFO    | main | Monitoring: RELIANCE.NS, TCS.NS, HDFCBANK.NS, INFY.NS, ICICIBANK.NS, HINDUNILVR.NS, SBIN.NS, BHARTIARTL.NS, KOTAKBANK.NS, ITC.NS
+2026-11-06 16:13:02,374 | INFO    | main | Scanning every 15 seconds
+2026-11-06 16:13:02,374 | INFO    | main | Stop Loss: 1.2% | Take Profit: 2.5%
+2026-11-06 16:13:02,374 | INFO    | main | Telegram: ON
+2026-11-06 16:13:02,374 | INFO    | main | Press Ctrl+C to stop
+
+2026-11-06 16:13:02,965 | INFO    | main | Positions exist - skipping market-open entry (resume mode)
+2026-11-06 16:13:02,965 | INFO    | main | Market closed. Market closed for the day
+2026-11-06 16:13:02,965 | INFO    | main | Closing remaining positions...
+2026-11-06 16:13:03,652 | INFO    | intraday_portfolio | SOLD RELIANCE.NS @ 1320.0 | P&L: +40.00 (SQUARE OFF)
+2026-11-06 16:13:03,652 | INFO    | intraday_portfolio | SOLD HDFCBANK.NS @ 788.25 | P&L: +139.50 (SQUARE OFF)
+2026-11-06 16:13:04,295 | INFO    | intraday_portfolio | =======================================================
+2026-11-06 16:13:04,295 | INFO    | intraday_portfolio | PORTFOLIO SUMMARY
+2026-11-06 16:13:04,295 | INFO    | intraday_portfolio | =======================================================
+2026-11-06 16:13:04,295 | INFO    | intraday_portfolio | Cash:             10435.65
+2026-11-06 16:13:04,295 | INFO    | intraday_portfolio | Positions Value:  0
+2026-11-06 16:13:04,295 | INFO    | intraday_portfolio | Total Value:      10435.65
+2026-11-06 16:13:04,295 | INFO    | intraday_portfolio | Total Return:     4.36%
+2026-11-06 16:13:04,295 | INFO    | intraday_portfolio | Today's Trades:   6 | Win Rate: 66.7%
+2026-11-06 16:13:04,295 | INFO    | intraday_portfolio | =======================================================
