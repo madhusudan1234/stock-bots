@@ -14,7 +14,7 @@ concurrency:
 
 jobs:
   trade-am:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 250
     env:
       TZ: Asia/Kolkata
