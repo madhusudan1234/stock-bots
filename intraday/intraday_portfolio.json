@@ -1,42 +1,30 @@
 {
   "initial_capital": 10000,
-  "cash": 10565.25,
-  "daily_trades": 6,
-  "daily_wins": 3,
-  "last_reset_date": "2026-11-11",
-  "positions": {},
-  "trade_history": [
-    {
-      "action": "BUY",
-      "symbol": "KOTAKBANK.NS",
-      "quantity": 7,
-      "price": 443.4,
-      "strategy": "MARKET_OPEN"
-    },
-    {
-      "action": "SELL",
-      "symbol": "KOTAKBANK.NS",
-      "quantity": 7,
-      "price": 439.75,
-      "pnl": -25.54999999999984,
-      "reason": "STRATEGY SELL"
-    },
-    {
-      "action": "SELL",
-      "symbol": "RELIANCE.NS",
-      "quantity": 2,
-      "price": 1160.5,
-      "pnl": 3.199999999999818,
-      "reason": "STRATEGY SELL"
-    },
-    {
-      "action": "SELL",
+  "cash": 4664.55,
+  "daily_trades": 4,
+  "daily_wins": 0,
+  "last_reset_date": "2026-11-12",
+  "positions": {
+    "HDFCBANK.NS": {
       "symbol": "HDFCBANK.NS",
       "quantity": 4,
-      "price": 714.65,
-      "pnl": 39.0,
-      "reason": "SQUARE OFF"
+      "avg_entry_price": 806.6,
+      "current_price": 808.75,
+      "stop_loss": 796.9208,
+      "take_profit": 826.765,
+      "strategy": "MARKET_OPEN"
     },
+    "RELIANCE.NS": {
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "avg_entry_price": 1335.4,
+      "current_price": 1337.8,
+      "stop_loss": 1319.3752000000002,
+      "take_profit": 1368.785,
+      "strategy": "MARKET_OPEN"
+    }
+  },
+  "trade_history": [
     {
       "action": "BUY",
       "symbol": "HDFCBANK.NS",
@@ -756,6 +744,35 @@
       "price": 487.7,
       "pnl": 73.7999999999999,
       "reason": "SQUARE OFF"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 806.6,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 7,
+      "price": 487.7,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1335.4,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 7,
+      "price": 487.2,
+      "pnl": -3.5,
+      "reason": "STOP LOSS"
     }
   ]
 }
