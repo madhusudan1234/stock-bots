@@ -1,56 +1,11 @@
 {
   "initial_capital": 10000,
-  "cash": 10593.15,
+  "cash": 10463.55,
   "daily_trades": 6,
-  "daily_wins": 2,
-  "last_reset_date": "2026-11-12",
+  "daily_wins": 0,
+  "last_reset_date": "2026-11-13",
   "positions": {},
   "trade_history": [
-    {
-      "action": "BUY",
-      "symbol": "BHARTIARTL.NS",
-      "quantity": 1,
-      "price": 1806.5,
-      "strategy": "MARKET_OPEN"
-    },
-    {
-      "action": "SELL",
-      "symbol": "KOTAKBANK.NS",
-      "quantity": 7,
-      "price": 440.85,
-      "pnl": 12.95000000000016,
-      "reason": "STRATEGY SELL"
-    },
-    {
-      "action": "SELL",
-      "symbol": "BHARTIARTL.NS",
-      "quantity": 1,
-      "price": 1796.4,
-      "pnl": -10.099999999999909,
-      "reason": "STRATEGY SELL"
-    },
-    {
-      "action": "SELL",
-      "symbol": "HDFCBANK.NS",
-      "quantity": 4,
-      "price": 709.7,
-      "pnl": -17.199999999999818,
-      "reason": "SQUARE OFF"
-    },
-    {
-      "action": "BUY",
-      "symbol": "HDFCBANK.NS",
-      "quantity": 4,
-      "price": 710.7,
-      "strategy": "MARKET_OPEN"
-    },
-    {
-      "action": "BUY",
-      "symbol": "KOTAKBANK.NS",
-      "quantity": 7,
-      "price": 438.05,
-      "strategy": "MARKET_OPEN"
-    },
     {
       "action": "BUY",
       "symbol": "INFY.NS",
@@ -756,6 +711,51 @@
       "price": 1339.7,
       "pnl": 8.599999999999909,
       "reason": "SQUARE OFF"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 812.3,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "ICICIBANK.NS",
+      "quantity": 2,
+      "price": 1590.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 8,
+      "price": 490.4,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 801.25,
+      "pnl": -44.19999999999982,
+      "reason": "STOP LOSS"
+    },
+    {
+      "action": "SELL",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 8,
+      "price": 484.5,
+      "pnl": -47.19999999999982,
+      "reason": "STOP LOSS"
+    },
+    {
+      "action": "SELL",
+      "symbol": "ICICIBANK.NS",
+      "quantity": 2,
+      "price": 1570.9,
+      "pnl": -38.19999999999982,
+      "reason": "STOP LOSS"
     }
   ]
 }
