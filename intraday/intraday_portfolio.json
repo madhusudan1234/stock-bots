@@ -1,44 +1,11 @@
 {
   "initial_capital": 10000,
-  "cash": 4577.649999999998,
-  "daily_trades": 4,
-  "daily_wins": 0,
+  "cash": 10506.249999999998,
+  "daily_trades": 6,
+  "daily_wins": 1,
   "last_reset_date": "2026-11-18",
-  "positions": {
-    "ICICIBANK.NS": {
-      "symbol": "ICICIBANK.NS",
-      "quantity": 2,
-      "avg_entry_price": 1598.7,
-      "current_price": 1595.0,
-      "stop_loss": 1579.5156,
-      "take_profit": 1638.6675,
-      "strategy": "MARKET_OPEN"
-    },
-    "RELIANCE.NS": {
-      "symbol": "RELIANCE.NS",
-      "quantity": 2,
-      "avg_entry_price": 1367.0,
-      "current_price": 1357.3,
-      "stop_loss": 1350.596,
-      "take_profit": 1401.175,
-      "strategy": "MARKET_OPEN"
-    }
-  },
+  "positions": {},
   "trade_history": [
-    {
-      "action": "BUY",
-      "symbol": "RELIANCE.NS",
-      "quantity": 2,
-      "price": 1209.0,
-      "strategy": "MARKET_OPEN"
-    },
-    {
-      "action": "BUY",
-      "symbol": "TCS.NS",
-      "quantity": 1,
-      "price": 2529.0,
-      "strategy": "MARKET_OPEN"
-    },
     {
       "action": "BUY",
       "symbol": "HDFCBANK.NS",
@@ -773,6 +740,22 @@
       "price": 811.05,
       "pnl": -15.600000000000364,
       "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "SELL",
+      "symbol": "ICICIBANK.NS",
+      "quantity": 2,
+      "price": 1601.3,
+      "pnl": 5.199999999999818,
+      "reason": "SQUARE OFF"
+    },
+    {
+      "action": "SELL",
+      "symbol": "RELIANCE.NS",
+      "quantity": 2,
+      "price": 1363.0,
+      "pnl": -8.0,
+      "reason": "SQUARE OFF"
     }
   ]
 }
