@@ -1,42 +1,30 @@
 {
   "initial_capital": 10000,
-  "cash": 10451.249999999998,
-  "daily_trades": 6,
-  "daily_wins": 0,
-  "last_reset_date": "2026-11-19",
-  "positions": {},
-  "trade_history": [
-    {
-      "action": "BUY",
-      "symbol": "HDFCBANK.NS",
+  "cash": 3794.849999999998,
+  "daily_trades": 4,
+  "daily_wins": 1,
+  "last_reset_date": "2026-11-20",
+  "positions": {
+    "KOTAKBANK.NS": {
+      "symbol": "KOTAKBANK.NS",
       "quantity": 7,
-      "price": 694.05,
+      "avg_entry_price": 503.0,
+      "current_price": 513.5,
+      "stop_loss": 503.0,
+      "take_profit": 515.5749999999999,
       "strategy": "MARKET_OPEN"
     },
-    {
-      "action": "SELL",
-      "symbol": "TCS.NS",
-      "quantity": 1,
-      "price": 2597.3,
-      "pnl": 90.40000000000009,
-      "reason": "TAKE PROFIT"
-    },
-    {
-      "action": "SELL",
-      "symbol": "HDFCBANK.NS",
-      "quantity": 7,
-      "price": 692.3,
-      "pnl": -12.25,
-      "reason": "STRATEGY SELL"
-    },
-    {
-      "action": "SELL",
-      "symbol": "RELIANCE.NS",
+    "ICICIBANK.NS": {
+      "symbol": "ICICIBANK.NS",
       "quantity": 2,
-      "price": 1185.8,
-      "pnl": 2.599999999999909,
-      "reason": "STRATEGY SELL"
-    },
+      "avg_entry_price": 1608.9,
+      "current_price": 1637.6,
+      "stop_loss": 1608.9,
+      "take_profit": 1649.1225,
+      "strategy": "MARKET_OPEN"
+    }
+  },
+  "trade_history": [
     {
       "action": "BUY",
       "symbol": "HDFCBANK.NS",
@@ -756,6 +744,35 @@
       "price": 1591.5,
       "pnl": -19.59999999999991,
       "reason": "STRATEGY SELL"
+    },
+    {
+      "action": "BUY",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 821.8,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "KOTAKBANK.NS",
+      "quantity": 7,
+      "price": 503.0,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "BUY",
+      "symbol": "ICICIBANK.NS",
+      "quantity": 2,
+      "price": 1608.9,
+      "strategy": "MARKET_OPEN"
+    },
+    {
+      "action": "SELL",
+      "symbol": "HDFCBANK.NS",
+      "quantity": 4,
+      "price": 842.4,
+      "pnl": 82.40000000000009,
+      "reason": "TAKE PROFIT"
     }
   ]
 }
