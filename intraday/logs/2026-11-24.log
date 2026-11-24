@@ -30511,3 +30511,33 @@
 2026-11-24 12:40:50,618 | INFO    | intraday_portfolio |   RELIANCE.NS: 2 shares | Entry: 1351.00 | Current: 1351.00 | P&L: +0.00 (+0.0%)
 2026-11-24 12:40:50,618 | INFO    | intraday_portfolio | =======================================================
 2026-11-24 12:40:50,619 | INFO    | main | Next scan in 15s...
+2026-11-24 19:01:53,746 | INFO    | main | ============================================================
+2026-11-24 19:01:53,746 | INFO    | main | Intraday Stock Trading Bot (NSE)
+2026-11-24 19:01:53,746 | INFO    | main | ============================================================
+2026-11-24 19:01:53,746 | INFO    | main | ============================================================
+2026-11-24 19:01:53,746 | INFO    | main | INTRADAY TRADING BOT
+2026-11-24 19:01:53,746 | INFO    | main | ============================================================
+2026-11-24 19:01:53,746 | INFO    | telegram | Telegram notifications enabled
+2026-11-24 19:01:53,746 | INFO    | intraday_portfolio | Loaded portfolio: 4463.499999999996 cash, 2 positions
+2026-11-24 19:01:53,882 | INFO    | live_fetcher | Yahoo crumb obtained
+2026-11-24 19:01:53,882 | INFO    | main | Capital: 4463.499999999996
+2026-11-24 19:01:53,882 | INFO    | main | Monitoring: RELIANCE.NS, TCS.NS, HDFCBANK.NS, INFY.NS, ICICIBANK.NS, HINDUNILVR.NS, SBIN.NS, BHARTIARTL.NS, KOTAKBANK.NS, ITC.NS
+2026-11-24 19:01:53,882 | INFO    | main | Scanning every 15 seconds
+2026-11-24 19:01:53,882 | INFO    | main | Stop Loss: 1.2% | Take Profit: 2.5%
+2026-11-24 19:01:53,882 | INFO    | main | Telegram: ON
+2026-11-24 19:01:53,882 | INFO    | main | Press Ctrl+C to stop
+
+2026-11-24 19:01:54,591 | INFO    | main | Positions exist - skipping market-open entry (resume mode)
+2026-11-24 19:01:54,591 | INFO    | main | Market closed. Market closed for the day
+2026-11-24 19:01:54,591 | INFO    | main | Closing remaining positions...
+2026-11-24 19:01:55,033 | INFO    | intraday_portfolio | SOLD KOTAKBANK.NS @ 502.85 | P&L: +0.00 (SQUARE OFF)
+2026-11-24 19:01:55,033 | INFO    | intraday_portfolio | SOLD RELIANCE.NS @ 1351.0 | P&L: +0.00 (SQUARE OFF)
+2026-11-24 19:01:55,711 | INFO    | intraday_portfolio | =======================================================
+2026-11-24 19:01:55,711 | INFO    | intraday_portfolio | PORTFOLIO SUMMARY
+2026-11-24 19:01:55,711 | INFO    | intraday_portfolio | =======================================================
+2026-11-24 19:01:55,711 | INFO    | intraday_portfolio | Cash:             10685.45
+2026-11-24 19:01:55,711 | INFO    | intraday_portfolio | Positions Value:  0
+2026-11-24 19:01:55,711 | INFO    | intraday_portfolio | Total Value:      10685.45
+2026-11-24 19:01:55,711 | INFO    | intraday_portfolio | Total Return:     6.85%
+2026-11-24 19:01:55,711 | INFO    | intraday_portfolio | Today's Trades:   6 | Win Rate: 0.0%
+2026-11-24 19:01:55,711 | INFO    | intraday_portfolio | =======================================================
